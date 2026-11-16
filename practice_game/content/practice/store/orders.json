@@ -1,0 +1,2772 @@
+[
+  {
+    "order_id": "2024",
+    "customer_id": "C-689",
+    "status": "delivered",
+    "items": [
+      {
+        "item_id": "2024-1",
+        "product_id": "P-3636",
+        "name": "Zentra Buds Z",
+        "qty": 1,
+        "unit_price": 5799
+      }
+    ],
+    "total": 5799,
+    "placed_on": "2026-11-12",
+    "shipped_on": "2026-11-14",
+    "delivered_on": "2026-11-17",
+    "expected_delivery": "2026-11-17",
+    "courier": "Rahbar Couriers",
+    "tracking_number": "TRK755771192",
+    "payment": {
+      "method": "card",
+      "amount_paid": 5799,
+      "refunded": 0
+    },
+    "shipping_address": {
+      "line": "House 164, Street 15, I-8/4",
+      "city": "Islamabad"
+    },
+    "returns": [],
+    "refunds": []
+  },
+  {
+    "order_id": "2074",
+    "customer_id": "C-258",
+    "status": "shipped",
+    "items": [
+      {
+        "item_id": "2074-1",
+        "product_id": "P-8539",
+        "name": "Sonik Boom 20",
+        "qty": 1,
+        "unit_price": 7299
+      }
+    ],
+    "total": 7299,
+    "placed_on": "2026-11-17",
+    "shipped_on": "2026-11-19",
+    "courier": "DakExpress",
+    "tracking_number": "TRK477309888",
+    "expected_delivery": "2026-11-22",
+    "payment": {
+      "method": "card",
+      "amount_paid": 7299,
+      "refunded": 0
+    },
+    "shipping_address": {
+      "line": "House 236, Street 15, Westridge 1",
+      "city": "Rawalpindi"
+    },
+    "returns": [],
+    "refunds": []
+  },
+  {
+    "order_id": "2092",
+    "customer_id": "C-650",
+    "status": "delivered",
+    "items": [
+      {
+        "item_id": "2092-1",
+        "product_id": "P-4770",
+        "name": "Voltix USB-C Cable 1m",
+        "qty": 1,
+        "unit_price": 699
+      }
+    ],
+    "total": 699,
+    "placed_on": "2026-09-28",
+    "shipped_on": "2026-09-30",
+    "delivered_on": "2026-10-03",
+    "expected_delivery": "2026-10-03",
+    "courier": "Rahbar Couriers",
+    "tracking_number": "TRK658959351",
+    "payment": {
+      "method": "card",
+      "amount_paid": 699,
+      "refunded": 0
+    },
+    "shipping_address": {
+      "line": "House 165, Street 18, Clifton Block 5",
+      "city": "Karachi"
+    },
+    "returns": [],
+    "refunds": []
+  },
+  {
+    "order_id": "2372",
+    "customer_id": "C-787",
+    "status": "delivered",
+    "items": [
+      {
+        "item_id": "2372-1",
+        "product_id": "P-8756",
+        "name": "Sonik Bass 300",
+        "qty": 1,
+        "unit_price": 4799
+      },
+      {
+        "item_id": "2372-2",
+        "product_id": "P-3740",
+        "name": "Zentra Z5 Pro",
+        "qty": 1,
+        "unit_price": 50299
+      }
+    ],
+    "total": 55098,
+    "placed_on": "2026-10-09",
+    "shipped_on": "2026-10-11",
+    "delivered_on": "2026-10-14",
+    "expected_delivery": "2026-10-14",
+    "courier": "SwiftPost",
+    "tracking_number": "TRK488506156",
+    "payment": {
+      "method": "cod",
+      "amount_paid": 55098,
+      "refunded": 0
+    },
+    "shipping_address": {
+      "line": "House 12, Street 34, Model Town",
+      "city": "Lahore"
+    },
+    "returns": [],
+    "refunds": []
+  },
+  {
+    "order_id": "2488",
+    "customer_id": "C-886",
+    "status": "placed",
+    "items": [
+      {
+        "item_id": "2488-1",
+        "product_id": "P-2110",
+        "name": "Trailpak Commuter 15.6 Backpack",
+        "qty": 1,
+        "unit_price": 5399
+      }
+    ],
+    "total": 5399,
+    "placed_on": "2026-11-20",
+    "expected_delivery": "2026-11-25",
+    "payment": {
+      "method": "card",
+      "amount_paid": 5399,
+      "refunded": 0
+    },
+    "shipping_address": {
+      "line": "House 105, Street 12, Chaklala 3",
+      "city": "Rawalpindi"
+    },
+    "returns": [],
+    "refunds": []
+  },
+  {
+    "order_id": "2507",
+    "customer_id": "C-326",
+    "status": "delivered",
+    "items": [
+      {
+        "item_id": "2507-1",
+        "product_id": "P-2881",
+        "name": "Kitchenova Kettle 1.7",
+        "qty": 1,
+        "unit_price": 3499
+      }
+    ],
+    "total": 3499,
+    "placed_on": "2026-11-03",
+    "shipped_on": "2026-11-05",
+    "delivered_on": "2026-11-08",
+    "expected_delivery": "2026-11-08",
+    "courier": "SwiftPost",
+    "tracking_number": "TRK887473856",
+    "payment": {
+      "method": "cod",
+      "amount_paid": 3499,
+      "refunded": 0
+    },
+    "shipping_address": {
+      "line": "House 25, Street 32, North Nazimabad Block H",
+      "city": "Karachi"
+    },
+    "returns": [],
+    "refunds": []
+  },
+  {
+    "order_id": "2518",
+    "customer_id": "C-615",
+    "status": "processing",
+    "items": [
+      {
+        "item_id": "2518-1",
+        "product_id": "P-1069",
+        "name": "Clickr Silent Mouse",
+        "qty": 1,
+        "unit_price": 1599
+      }
+    ],
+    "total": 1599,
+    "placed_on": "2026-11-19",
+    "expected_delivery": "2026-11-24",
+    "payment": {
+      "method": "cod",
+      "amount_paid": 0,
+      "refunded": 0
+    },
+    "shipping_address": {
+      "line": "House 5, Street 13, DHA Phase 5",
+      "city": "Lahore"
+    },
+    "returns": [],
+    "refunds": []
+  },
+  {
+    "order_id": "2537",
+    "customer_id": "C-163",
+    "status": "processing",
+    "items": [
+      {
+        "item_id": "2537-1",
+        "product_id": "P-4250",
+        "name": "Breezo Steam Iron 2000",
+        "qty": 1,
+        "unit_price": 5299
+      }
+    ],
+    "total": 5299,
+    "placed_on": "2026-11-19",
+    "expected_delivery": "2026-11-24",
+    "payment": {
+      "method": "card",
+      "amount_paid": 5299,
+      "refunded": 0
+    },
+    "shipping_address": {
+      "line": "House 162, Street 37, North Nazimabad Block H",
+      "city": "Karachi"
+    },
+    "returns": [],
+    "refunds": []
+  },
+  {
+    "order_id": "2634",
+    "customer_id": "C-584",
+    "status": "processing",
+    "items": [
+      {
+        "item_id": "2634-1",
+        "product_id": "P-6967",
+        "name": "Kitchenova AirFry 4.5",
+        "qty": 1,
+        "unit_price": 16799
+      }
+    ],
+    "total": 16799,
+    "placed_on": "2026-11-18",
+    "expected_delivery": "2026-11-23",
+    "payment": {
+      "method": "wallet",
+      "amount_paid": 16799,
+      "refunded": 0
+    },
+    "shipping_address": {
+      "line": "House 73, Street 26, PECHS Block 2",
+      "city": "Karachi"
+    },
+    "returns": [],
+    "refunds": []
+  },
+  {
+    "order_id": "2713",
+    "customer_id": "C-694",
+    "status": "processing",
+    "items": [
+      {
+        "item_id": "2713-1",
+        "product_id": "P-2357",
+        "name": "Nova X1",
+        "qty": 1,
+        "unit_price": 33899
+      },
+      {
+        "item_id": "2713-2",
+        "product_id": "P-6967",
+        "name": "Kitchenova AirFry 4.5",
+        "qty": 1,
+        "unit_price": 16799
+      }
+    ],
+    "total": 50698,
+    "placed_on": "2026-11-19",
+    "expected_delivery": "2026-11-24",
+    "payment": {
+      "method": "card",
+      "amount_paid": 50698,
+      "refunded": 0
+    },
+    "shipping_address": {
+      "line": "House 165, Street 10, Gulshan-e-Iqbal Block 13",
+      "city": "Karachi"
+    },
+    "returns": [],
+    "refunds": []
+  },
+  {
+    "order_id": "2721",
+    "customer_id": "C-774",
+    "status": "delivered",
+    "items": [
+      {
+        "item_id": "2721-1",
+        "product_id": "P-2881",
+        "name": "Kitchenova Kettle 1.7",
+        "qty": 1,
+        "unit_price": 3499
+      }
+    ],
+    "total": 3499,
+    "placed_on": "2026-10-03",
+    "shipped_on": "2026-10-05",
+    "delivered_on": "2026-10-08",
+    "expected_delivery": "2026-10-08",
+    "courier": "DakExpress",
+    "tracking_number": "TRK966399276",
+    "payment": {
+      "method": "cod",
+      "amount_paid": 3499,
+      "refunded": 0
+    },
+    "shipping_address": {
+      "line": "House 193, Street 9, G-11/1",
+      "city": "Islamabad"
+    },
+    "returns": [],
+    "refunds": []
+  },
+  {
+    "order_id": "2818",
+    "customer_id": "C-474",
+    "status": "delivered",
+    "items": [
+      {
+        "item_id": "2818-1",
+        "product_id": "P-8536",
+        "name": "Voltix PowerCell 20000",
+        "qty": 1,
+        "unit_price": 4999
+      },
+      {
+        "item_id": "2818-2",
+        "product_id": "P-9891",
+        "name": "Clickr Cooling Pad 15.6",
+        "qty": 1,
+        "unit_price": 2899
+      }
+    ],
+    "total": 7898,
+    "placed_on": "2026-09-30",
+    "shipped_on": "2026-10-02",
+    "delivered_on": "2026-10-05",
+    "expected_delivery": "2026-10-05",
+    "courier": "DakExpress",
+    "tracking_number": "TRK973729808",
+    "payment": {
+      "method": "card",
+      "amount_paid": 7898,
+      "refunded": 0
+    },
+    "shipping_address": {
+      "line": "House 8, Street 38, F-7/1",
+      "city": "Islamabad"
+    },
+    "returns": [],
+    "refunds": []
+  },
+  {
+    "order_id": "2969",
+    "customer_id": "C-615",
+    "status": "shipped",
+    "items": [
+      {
+        "item_id": "2969-1",
+        "product_id": "P-8165",
+        "name": "Voltix Slim 5000",
+        "qty": 1,
+        "unit_price": 2099
+      }
+    ],
+    "total": 2099,
+    "placed_on": "2026-11-16",
+    "shipped_on": "2026-11-18",
+    "courier": "Rahbar Couriers",
+    "tracking_number": "TRK188900772",
+    "expected_delivery": "2026-11-23",
+    "payment": {
+      "method": "card",
+      "amount_paid": 2099,
+      "refunded": 0
+    },
+    "shipping_address": {
+      "line": "House 5, Street 13, DHA Phase 5",
+      "city": "Lahore"
+    },
+    "returns": [],
+    "refunds": []
+  },
+  {
+    "order_id": "3256",
+    "customer_id": "C-858",
+    "status": "delivered",
+    "items": [
+      {
+        "item_id": "3256-1",
+        "product_id": "P-3463",
+        "name": "Clickr Pro Keyboard",
+        "qty": 1,
+        "unit_price": 6599
+      },
+      {
+        "item_id": "3256-2",
+        "product_id": "P-1826",
+        "name": "Kitchenova Toaster Duo",
+        "qty": 1,
+        "unit_price": 4199
+      }
+    ],
+    "total": 10798,
+    "placed_on": "2026-10-06",
+    "shipped_on": "2026-10-08",
+    "delivered_on": "2026-10-11",
+    "expected_delivery": "2026-10-11",
+    "courier": "Rahbar Couriers",
+    "tracking_number": "TRK316115970",
+    "payment": {
+      "method": "cod",
+      "amount_paid": 10798,
+      "refunded": 0
+    },
+    "shipping_address": {
+      "line": "House 218, Street 11, E-11/2",
+      "city": "Islamabad"
+    },
+    "returns": [],
+    "refunds": []
+  },
+  {
+    "order_id": "3272",
+    "customer_id": "C-856",
+    "status": "processing",
+    "items": [
+      {
+        "item_id": "3272-1",
+        "product_id": "P-3203",
+        "name": "Sonik BeatBuds ANC",
+        "qty": 1,
+        "unit_price": 6799
+      }
+    ],
+    "total": 6799,
+    "placed_on": "2026-11-19",
+    "expected_delivery": "2026-11-24",
+    "payment": {
+      "method": "card",
+      "amount_paid": 6799,
+      "refunded": 0
+    },
+    "shipping_address": {
+      "line": "House 147, Street 11, Gulshan-e-Iqbal Block 13",
+      "city": "Karachi"
+    },
+    "returns": [],
+    "refunds": []
+  },
+  {
+    "order_id": "3514",
+    "customer_id": "C-397",
+    "status": "delivered",
+    "items": [
+      {
+        "item_id": "3514-1",
+        "product_id": "P-9923",
+        "name": "Sonik Party 50",
+        "qty": 1,
+        "unit_price": 19099
+      }
+    ],
+    "total": 19099,
+    "placed_on": "2026-10-22",
+    "shipped_on": "2026-10-24",
+    "delivered_on": "2026-10-27",
+    "expected_delivery": "2026-10-27",
+    "courier": "SwiftPost",
+    "tracking_number": "TRK773402997",
+    "payment": {
+      "method": "wallet",
+      "amount_paid": 19099,
+      "refunded": 0
+    },
+    "shipping_address": {
+      "line": "House 87, Street 17, Bahria Town Phase 4",
+      "city": "Rawalpindi"
+    },
+    "returns": [],
+    "refunds": []
+  },
+  {
+    "order_id": "3637",
+    "customer_id": "C-396",
+    "status": "delivered",
+    "items": [
+      {
+        "item_id": "3637-1",
+        "product_id": "P-1826",
+        "name": "Kitchenova Toaster Duo",
+        "qty": 1,
+        "unit_price": 4199
+      }
+    ],
+    "total": 4199,
+    "placed_on": "2026-09-26",
+    "shipped_on": "2026-09-28",
+    "delivered_on": "2026-10-01",
+    "expected_delivery": "2026-10-01",
+    "courier": "DakExpress",
+    "tracking_number": "TRK367701406",
+    "payment": {
+      "method": "cod",
+      "amount_paid": 4199,
+      "refunded": 0
+    },
+    "shipping_address": {
+      "line": "House 109, Street 14, G-11/1",
+      "city": "Islamabad"
+    },
+    "returns": [],
+    "refunds": []
+  },
+  {
+    "order_id": "3673",
+    "customer_id": "C-926",
+    "status": "shipped",
+    "items": [
+      {
+        "item_id": "3673-1",
+        "product_id": "P-9089",
+        "name": "Kitchenova Blend 1000 Pro",
+        "qty": 1,
+        "unit_price": 10899
+      }
+    ],
+    "total": 10899,
+    "placed_on": "2026-11-17",
+    "shipped_on": "2026-11-19",
+    "courier": "DakExpress",
+    "tracking_number": "TRK445724341",
+    "expected_delivery": "2026-11-22",
+    "payment": {
+      "method": "card",
+      "amount_paid": 10899,
+      "refunded": 0
+    },
+    "shipping_address": {
+      "line": "House 99, Street 34, North Nazimabad Block H",
+      "city": "Karachi"
+    },
+    "returns": [],
+    "refunds": []
+  },
+  {
+    "order_id": "3832",
+    "customer_id": "C-705",
+    "status": "delivered",
+    "items": [
+      {
+        "item_id": "3832-1",
+        "product_id": "P-6542",
+        "name": "Auralite Buds Lite",
+        "qty": 1,
+        "unit_price": 3199
+      }
+    ],
+    "total": 3199,
+    "placed_on": "2026-10-08",
+    "shipped_on": "2026-10-10",
+    "delivered_on": "2026-10-13",
+    "expected_delivery": "2026-10-13",
+    "courier": "SwiftPost",
+    "tracking_number": "TRK242880663",
+    "payment": {
+      "method": "card",
+      "amount_paid": 3199,
+      "refunded": 0
+    },
+    "shipping_address": {
+      "line": "House 237, Street 8, F-7/1",
+      "city": "Islamabad"
+    },
+    "returns": [],
+    "refunds": []
+  },
+  {
+    "order_id": "3838",
+    "customer_id": "C-397",
+    "status": "delivered",
+    "items": [
+      {
+        "item_id": "3838-1",
+        "product_id": "P-3038",
+        "name": "Zentra Z5 Pro Rugged Case",
+        "qty": 1,
+        "unit_price": 2099
+      },
+      {
+        "item_id": "3838-2",
+        "product_id": "P-9598",
+        "name": "Auralite Studio 700 ANC",
+        "qty": 1,
+        "unit_price": 15599
+      }
+    ],
+    "total": 17698,
+    "placed_on": "2026-11-05",
+    "shipped_on": "2026-11-07",
+    "delivered_on": "2026-11-10",
+    "expected_delivery": "2026-11-10",
+    "courier": "DakExpress",
+    "tracking_number": "TRK609152074",
+    "payment": {
+      "method": "wallet",
+      "amount_paid": 17698,
+      "refunded": 0
+    },
+    "shipping_address": {
+      "line": "House 87, Street 17, Bahria Town Phase 4",
+      "city": "Rawalpindi"
+    },
+    "returns": [],
+    "refunds": []
+  },
+  {
+    "order_id": "3851",
+    "customer_id": "C-858",
+    "status": "delivered",
+    "items": [
+      {
+        "item_id": "3851-1",
+        "product_id": "P-3636",
+        "name": "Zentra Buds Z",
+        "qty": 1,
+        "unit_price": 5799
+      }
+    ],
+    "total": 5799,
+    "placed_on": "2026-10-04",
+    "shipped_on": "2026-10-06",
+    "delivered_on": "2026-10-09",
+    "expected_delivery": "2026-10-09",
+    "courier": "Rahbar Couriers",
+    "tracking_number": "TRK276404163",
+    "payment": {
+      "method": "wallet",
+      "amount_paid": 5799,
+      "refunded": 0
+    },
+    "shipping_address": {
+      "line": "House 218, Street 11, E-11/2",
+      "city": "Islamabad"
+    },
+    "returns": [],
+    "refunds": []
+  },
+  {
+    "order_id": "4031",
+    "customer_id": "C-294",
+    "status": "delivered",
+    "items": [
+      {
+        "item_id": "4031-1",
+        "product_id": "P-9203",
+        "name": "Nimbus Work 15",
+        "qty": 1,
+        "unit_price": 108199
+      }
+    ],
+    "total": 108199,
+    "placed_on": "2026-09-21",
+    "shipped_on": "2026-09-23",
+    "delivered_on": "2026-09-26",
+    "expected_delivery": "2026-09-26",
+    "courier": "DakExpress",
+    "tracking_number": "TRK767487778",
+    "payment": {
+      "method": "card",
+      "amount_paid": 108199,
+      "refunded": 0
+    },
+    "shipping_address": {
+      "line": "House 33, Street 6, Chaklala 3",
+      "city": "Rawalpindi"
+    },
+    "returns": [],
+    "refunds": []
+  },
+  {
+    "order_id": "4216",
+    "customer_id": "C-759",
+    "status": "cancelled",
+    "items": [
+      {
+        "item_id": "4216-1",
+        "product_id": "P-1069",
+        "name": "Clickr Silent Mouse",
+        "qty": 1,
+        "unit_price": 1599
+      }
+    ],
+    "total": 1599,
+    "placed_on": "2026-09-10",
+    "cancelled_on": "2026-09-11",
+    "payment": {
+      "method": "card",
+      "amount_paid": 1599,
+      "refunded": 1599
+    },
+    "shipping_address": {
+      "line": "House 166, Street 14, Gulberg 3",
+      "city": "Lahore"
+    },
+    "returns": [],
+    "refunds": [
+      {
+        "refund_id": "RF-4216",
+        "amount": 1599,
+        "source": "cancellation"
+      }
+    ]
+  },
+  {
+    "order_id": "4300",
+    "customer_id": "C-759",
+    "status": "delivered",
+    "items": [
+      {
+        "item_id": "4300-1",
+        "product_id": "P-1826",
+        "name": "Kitchenova Toaster Duo",
+        "qty": 1,
+        "unit_price": 4199
+      },
+      {
+        "item_id": "4300-2",
+        "product_id": "P-8539",
+        "name": "Sonik Boom 20",
+        "qty": 1,
+        "unit_price": 7299
+      }
+    ],
+    "total": 11498,
+    "placed_on": "2026-10-17",
+    "shipped_on": "2026-10-19",
+    "delivered_on": "2026-10-22",
+    "expected_delivery": "2026-10-22",
+    "courier": "SwiftPost",
+    "tracking_number": "TRK142118610",
+    "payment": {
+      "method": "wallet",
+      "amount_paid": 11498,
+      "refunded": 0
+    },
+    "shipping_address": {
+      "line": "House 166, Street 14, Gulberg 3",
+      "city": "Lahore"
+    },
+    "returns": [],
+    "refunds": []
+  },
+  {
+    "order_id": "4331",
+    "customer_id": "C-396",
+    "status": "delivered",
+    "items": [
+      {
+        "item_id": "4331-1",
+        "product_id": "P-6038",
+        "name": "Kitchenova Blend 600",
+        "qty": 1,
+        "unit_price": 6699
+      },
+      {
+        "item_id": "4331-2",
+        "product_id": "P-4770",
+        "name": "Voltix USB-C Cable 1m",
+        "qty": 1,
+        "unit_price": 699
+      }
+    ],
+    "total": 7398,
+    "placed_on": "2026-11-06",
+    "shipped_on": "2026-11-08",
+    "delivered_on": "2026-11-11",
+    "expected_delivery": "2026-11-11",
+    "courier": "Rahbar Couriers",
+    "tracking_number": "TRK573042806",
+    "payment": {
+      "method": "card",
+      "amount_paid": 7398,
+      "refunded": 0
+    },
+    "shipping_address": {
+      "line": "House 109, Street 14, G-11/1",
+      "city": "Islamabad"
+    },
+    "returns": [],
+    "refunds": []
+  },
+  {
+    "order_id": "4482",
+    "customer_id": "C-607",
+    "status": "delivered",
+    "items": [
+      {
+        "item_id": "4482-1",
+        "product_id": "P-2113",
+        "name": "Zentra Max 12",
+        "qty": 1,
+        "unit_price": 73399
+      }
+    ],
+    "total": 73399,
+    "placed_on": "2026-11-12",
+    "shipped_on": "2026-11-14",
+    "delivered_on": "2026-11-17",
+    "expected_delivery": "2026-11-17",
+    "courier": "SwiftPost",
+    "tracking_number": "TRK805829220",
+    "payment": {
+      "method": "cod",
+      "amount_paid": 73399,
+      "refunded": 0
+    },
+    "shipping_address": {
+      "line": "House 21, Street 33, Westridge 1",
+      "city": "Rawalpindi"
+    },
+    "returns": [],
+    "refunds": []
+  },
+  {
+    "order_id": "4552",
+    "customer_id": "C-885",
+    "status": "delivered",
+    "items": [
+      {
+        "item_id": "4552-1",
+        "product_id": "P-1371",
+        "name": "Nimbus Air 14",
+        "qty": 1,
+        "unit_price": 150099
+      }
+    ],
+    "total": 150099,
+    "placed_on": "2026-10-29",
+    "shipped_on": "2026-10-31",
+    "delivered_on": "2026-11-03",
+    "expected_delivery": "2026-11-03",
+    "courier": "DakExpress",
+    "tracking_number": "TRK409732126",
+    "payment": {
+      "method": "wallet",
+      "amount_paid": 150099,
+      "refunded": 0
+    },
+    "shipping_address": {
+      "line": "House 13, Street 3, Model Town",
+      "city": "Lahore"
+    },
+    "returns": [],
+    "refunds": []
+  },
+  {
+    "order_id": "4742",
+    "customer_id": "C-584",
+    "status": "delivered",
+    "items": [
+      {
+        "item_id": "4742-1",
+        "product_id": "P-9923",
+        "name": "Sonik Party 50",
+        "qty": 1,
+        "unit_price": 19099
+      }
+    ],
+    "total": 19099,
+    "placed_on": "2026-11-07",
+    "shipped_on": "2026-11-09",
+    "delivered_on": "2026-11-12",
+    "expected_delivery": "2026-11-12",
+    "courier": "SwiftPost",
+    "tracking_number": "TRK833190987",
+    "payment": {
+      "method": "cod",
+      "amount_paid": 19099,
+      "refunded": 0
+    },
+    "shipping_address": {
+      "line": "House 73, Street 26, PECHS Block 2",
+      "city": "Karachi"
+    },
+    "returns": [],
+    "refunds": []
+  },
+  {
+    "order_id": "5035",
+    "customer_id": "C-998",
+    "status": "processing",
+    "items": [
+      {
+        "item_id": "5035-1",
+        "product_id": "P-4770",
+        "name": "Voltix USB-C Cable 1m",
+        "qty": 1,
+        "unit_price": 699
+      }
+    ],
+    "total": 699,
+    "placed_on": "2026-11-18",
+    "expected_delivery": "2026-11-23",
+    "payment": {
+      "method": "cod",
+      "amount_paid": 0,
+      "refunded": 0
+    },
+    "shipping_address": {
+      "line": "House 100, Street 17, I-8/4",
+      "city": "Islamabad"
+    },
+    "returns": [],
+    "refunds": []
+  },
+  {
+    "order_id": "5102",
+    "customer_id": "C-308",
+    "status": "processing",
+    "items": [
+      {
+        "item_id": "5102-1",
+        "product_id": "P-1069",
+        "name": "Clickr Silent Mouse",
+        "qty": 1,
+        "unit_price": 1599
+      },
+      {
+        "item_id": "5102-2",
+        "product_id": "P-3463",
+        "name": "Clickr Pro Keyboard",
+        "qty": 1,
+        "unit_price": 6599
+      }
+    ],
+    "total": 8198,
+    "placed_on": "2026-11-18",
+    "expected_delivery": "2026-11-23",
+    "payment": {
+      "method": "card",
+      "amount_paid": 8198,
+      "refunded": 0
+    },
+    "shipping_address": {
+      "line": "House 133, Street 13, Clifton Block 5",
+      "city": "Karachi"
+    },
+    "returns": [],
+    "refunds": []
+  },
+  {
+    "order_id": "5203",
+    "customer_id": "C-521",
+    "status": "shipped",
+    "items": [
+      {
+        "item_id": "5203-1",
+        "product_id": "P-8536",
+        "name": "Voltix PowerCell 20000",
+        "qty": 1,
+        "unit_price": 4999
+      }
+    ],
+    "total": 4999,
+    "placed_on": "2026-11-17",
+    "shipped_on": "2026-11-19",
+    "courier": "SwiftPost",
+    "tracking_number": "TRK960566961",
+    "expected_delivery": "2026-11-21",
+    "payment": {
+      "method": "wallet",
+      "amount_paid": 4999,
+      "refunded": 0
+    },
+    "shipping_address": {
+      "line": "House 13, Street 8, North Nazimabad Block H",
+      "city": "Karachi"
+    },
+    "returns": [],
+    "refunds": []
+  },
+  {
+    "order_id": "5241",
+    "customer_id": "C-979",
+    "status": "processing",
+    "items": [
+      {
+        "item_id": "5241-1",
+        "product_id": "P-5411",
+        "name": "Sonik Boom Mini",
+        "qty": 1,
+        "unit_price": 3499
+      }
+    ],
+    "total": 3499,
+    "placed_on": "2026-11-19",
+    "expected_delivery": "2026-11-24",
+    "payment": {
+      "method": "card",
+      "amount_paid": 3499,
+      "refunded": 0
+    },
+    "shipping_address": {
+      "line": "House 238, Street 20, PECHS Block 2",
+      "city": "Karachi"
+    },
+    "returns": [],
+    "refunds": []
+  },
+  {
+    "order_id": "5305",
+    "customer_id": "C-294",
+    "status": "cancelled",
+    "items": [
+      {
+        "item_id": "5305-1",
+        "product_id": "P-6038",
+        "name": "Kitchenova Blend 600",
+        "qty": 1,
+        "unit_price": 6699
+      }
+    ],
+    "total": 6699,
+    "placed_on": "2026-08-31",
+    "cancelled_on": "2026-09-01",
+    "payment": {
+      "method": "cod",
+      "amount_paid": 0,
+      "refunded": 0
+    },
+    "shipping_address": {
+      "line": "House 33, Street 6, Chaklala 3",
+      "city": "Rawalpindi"
+    },
+    "returns": [],
+    "refunds": []
+  },
+  {
+    "order_id": "5345",
+    "customer_id": "C-296",
+    "status": "processing",
+    "items": [
+      {
+        "item_id": "5345-1",
+        "product_id": "P-7706",
+        "name": "Kitchenova AirFry 6.5 Digital",
+        "qty": 1,
+        "unit_price": 22399
+      }
+    ],
+    "total": 22399,
+    "placed_on": "2026-11-19",
+    "expected_delivery": "2026-11-24",
+    "payment": {
+      "method": "card",
+      "amount_paid": 22399,
+      "refunded": 0
+    },
+    "shipping_address": {
+      "line": "House 16, Street 2, Bahria Town Phase 4",
+      "city": "Rawalpindi"
+    },
+    "returns": [],
+    "refunds": []
+  },
+  {
+    "order_id": "5483",
+    "customer_id": "C-364",
+    "status": "delivered",
+    "items": [
+      {
+        "item_id": "5483-1",
+        "product_id": "P-2881",
+        "name": "Kitchenova Kettle 1.7",
+        "qty": 1,
+        "unit_price": 3499
+      }
+    ],
+    "total": 3499,
+    "placed_on": "2026-11-11",
+    "shipped_on": "2026-11-13",
+    "delivered_on": "2026-11-16",
+    "expected_delivery": "2026-11-16",
+    "courier": "DakExpress",
+    "tracking_number": "TRK234466290",
+    "payment": {
+      "method": "card",
+      "amount_paid": 3499,
+      "refunded": 0
+    },
+    "shipping_address": {
+      "line": "House 43, Street 35, Model Town",
+      "city": "Lahore"
+    },
+    "returns": [],
+    "refunds": []
+  },
+  {
+    "order_id": "5668",
+    "customer_id": "C-660",
+    "status": "shipped",
+    "items": [
+      {
+        "item_id": "5668-1",
+        "product_id": "P-6180",
+        "name": "Voltix PowerCell 10000",
+        "qty": 1,
+        "unit_price": 3099
+      },
+      {
+        "item_id": "5668-2",
+        "product_id": "P-9656",
+        "name": "Auralite Buds Pro ANC",
+        "qty": 1,
+        "unit_price": 9299
+      }
+    ],
+    "total": 12398,
+    "placed_on": "2026-11-15",
+    "shipped_on": "2026-11-17",
+    "courier": "SwiftPost",
+    "tracking_number": "TRK641790327",
+    "expected_delivery": "2026-11-23",
+    "payment": {
+      "method": "card",
+      "amount_paid": 12398,
+      "refunded": 0
+    },
+    "shipping_address": {
+      "line": "House 206, Street 29, Gulberg 3",
+      "city": "Lahore"
+    },
+    "returns": [],
+    "refunds": []
+  },
+  {
+    "order_id": "5710",
+    "customer_id": "C-856",
+    "status": "delivered",
+    "items": [
+      {
+        "item_id": "5710-1",
+        "product_id": "P-5984",
+        "name": "Auralite Kids Safe",
+        "qty": 1,
+        "unit_price": 3799
+      }
+    ],
+    "total": 3799,
+    "placed_on": "2026-10-16",
+    "shipped_on": "2026-10-18",
+    "delivered_on": "2026-10-21",
+    "expected_delivery": "2026-10-21",
+    "courier": "DakExpress",
+    "tracking_number": "TRK444726513",
+    "payment": {
+      "method": "cod",
+      "amount_paid": 3799,
+      "refunded": 0
+    },
+    "shipping_address": {
+      "line": "House 147, Street 11, Gulshan-e-Iqbal Block 13",
+      "city": "Karachi"
+    },
+    "returns": [],
+    "refunds": []
+  },
+  {
+    "order_id": "5751",
+    "customer_id": "C-607",
+    "status": "delivered",
+    "items": [
+      {
+        "item_id": "5751-1",
+        "product_id": "P-8513",
+        "name": "Sonik Pro Gaming H7",
+        "qty": 1,
+        "unit_price": 8799
+      }
+    ],
+    "total": 8799,
+    "placed_on": "2026-10-31",
+    "shipped_on": "2026-11-02",
+    "delivered_on": "2026-11-05",
+    "expected_delivery": "2026-11-05",
+    "courier": "SwiftPost",
+    "tracking_number": "TRK824271051",
+    "payment": {
+      "method": "cod",
+      "amount_paid": 8799,
+      "refunded": 0
+    },
+    "shipping_address": {
+      "line": "House 21, Street 33, Westridge 1",
+      "city": "Rawalpindi"
+    },
+    "returns": [],
+    "refunds": []
+  },
+  {
+    "order_id": "5856",
+    "customer_id": "C-231",
+    "status": "delivered",
+    "items": [
+      {
+        "item_id": "5856-1",
+        "product_id": "P-7389",
+        "name": "Breezo Pedestal Fan 18",
+        "qty": 1,
+        "unit_price": 9599
+      }
+    ],
+    "total": 9599,
+    "placed_on": "2026-11-12",
+    "shipped_on": "2026-11-14",
+    "delivered_on": "2026-11-17",
+    "expected_delivery": "2026-11-17",
+    "courier": "Rahbar Couriers",
+    "tracking_number": "TRK325325993",
+    "payment": {
+      "method": "card",
+      "amount_paid": 9599,
+      "refunded": 0
+    },
+    "shipping_address": {
+      "line": "House 167, Street 33, I-8/4",
+      "city": "Islamabad"
+    },
+    "returns": [],
+    "refunds": []
+  },
+  {
+    "order_id": "5887",
+    "customer_id": "C-552",
+    "status": "shipped",
+    "items": [
+      {
+        "item_id": "5887-1",
+        "product_id": "P-3463",
+        "name": "Clickr Pro Keyboard",
+        "qty": 1,
+        "unit_price": 6599
+      }
+    ],
+    "total": 6599,
+    "placed_on": "2026-11-15",
+    "shipped_on": "2026-11-17",
+    "courier": "Rahbar Couriers",
+    "tracking_number": "TRK645220643",
+    "original_expected_delivery": "2026-11-19",
+    "expected_delivery": "2026-11-22",
+    "delayed": true,
+    "delay_reason": "courier backlog",
+    "payment": {
+      "method": "card",
+      "amount_paid": 6599,
+      "refunded": 0
+    },
+    "shipping_address": {
+      "line": "House 246, Street 18, G-9/2",
+      "city": "Islamabad"
+    },
+    "returns": [],
+    "refunds": []
+  },
+  {
+    "order_id": "6099",
+    "customer_id": "C-843",
+    "status": "delivered",
+    "items": [
+      {
+        "item_id": "6099-1",
+        "product_id": "P-7854",
+        "name": "Trailpak Slim 14 Sleeve",
+        "qty": 1,
+        "unit_price": 2099
+      },
+      {
+        "item_id": "6099-2",
+        "product_id": "P-3203",
+        "name": "Sonik BeatBuds ANC",
+        "qty": 1,
+        "unit_price": 6799
+      }
+    ],
+    "total": 8898,
+    "placed_on": "2026-11-01",
+    "shipped_on": "2026-11-03",
+    "delivered_on": "2026-11-06",
+    "expected_delivery": "2026-11-06",
+    "courier": "DakExpress",
+    "tracking_number": "TRK728161124",
+    "payment": {
+      "method": "card",
+      "amount_paid": 8898,
+      "refunded": 0
+    },
+    "shipping_address": {
+      "line": "House 250, Street 35, PECHS Block 2",
+      "city": "Karachi"
+    },
+    "returns": [],
+    "refunds": []
+  },
+  {
+    "order_id": "6298",
+    "customer_id": "C-979",
+    "status": "cancelled",
+    "items": [
+      {
+        "item_id": "6298-1",
+        "product_id": "P-7854",
+        "name": "Trailpak Slim 14 Sleeve",
+        "qty": 1,
+        "unit_price": 2099
+      }
+    ],
+    "total": 2099,
+    "placed_on": "2026-10-10",
+    "cancelled_on": "2026-10-11",
+    "payment": {
+      "method": "card",
+      "amount_paid": 2099,
+      "refunded": 2099
+    },
+    "shipping_address": {
+      "line": "House 238, Street 20, PECHS Block 2",
+      "city": "Karachi"
+    },
+    "returns": [],
+    "refunds": [
+      {
+        "refund_id": "RF-6298",
+        "amount": 2099,
+        "source": "cancellation"
+      }
+    ]
+  },
+  {
+    "order_id": "6302",
+    "customer_id": "C-521",
+    "status": "delivered",
+    "items": [
+      {
+        "item_id": "6302-1",
+        "product_id": "P-5411",
+        "name": "Sonik Boom Mini",
+        "qty": 1,
+        "unit_price": 3499
+      }
+    ],
+    "total": 3499,
+    "placed_on": "2026-11-09",
+    "shipped_on": "2026-11-11",
+    "delivered_on": "2026-11-14",
+    "expected_delivery": "2026-11-14",
+    "courier": "Rahbar Couriers",
+    "tracking_number": "TRK756647205",
+    "payment": {
+      "method": "cod",
+      "amount_paid": 3499,
+      "refunded": 0
+    },
+    "shipping_address": {
+      "line": "House 13, Street 8, North Nazimabad Block H",
+      "city": "Karachi"
+    },
+    "returns": [],
+    "refunds": []
+  },
+  {
+    "order_id": "6399",
+    "customer_id": "C-264",
+    "status": "processing",
+    "items": [
+      {
+        "item_id": "6399-1",
+        "product_id": "P-1826",
+        "name": "Kitchenova Toaster Duo",
+        "qty": 1,
+        "unit_price": 4199
+      }
+    ],
+    "total": 4199,
+    "placed_on": "2026-11-18",
+    "expected_delivery": "2026-11-23",
+    "payment": {
+      "method": "card",
+      "amount_paid": 4199,
+      "refunded": 0
+    },
+    "shipping_address": {
+      "line": "House 27, Street 9, Clifton Block 5",
+      "city": "Karachi"
+    },
+    "returns": [],
+    "refunds": []
+  },
+  {
+    "order_id": "6438",
+    "customer_id": "C-992",
+    "status": "delivered",
+    "items": [
+      {
+        "item_id": "6438-1",
+        "product_id": "P-6038",
+        "name": "Kitchenova Blend 600",
+        "qty": 1,
+        "unit_price": 6699
+      }
+    ],
+    "total": 6699,
+    "placed_on": "2026-10-05",
+    "shipped_on": "2026-10-07",
+    "delivered_on": "2026-10-10",
+    "expected_delivery": "2026-10-10",
+    "courier": "DakExpress",
+    "tracking_number": "TRK225799276",
+    "payment": {
+      "method": "cod",
+      "amount_paid": 6699,
+      "refunded": 0
+    },
+    "shipping_address": {
+      "line": "House 87, Street 25, Gulberg 3",
+      "city": "Lahore"
+    },
+    "returns": [],
+    "refunds": []
+  },
+  {
+    "order_id": "6453",
+    "customer_id": "C-998",
+    "status": "shipped",
+    "items": [
+      {
+        "item_id": "6453-1",
+        "product_id": "P-6967",
+        "name": "Kitchenova AirFry 4.5",
+        "qty": 1,
+        "unit_price": 16799
+      }
+    ],
+    "total": 16799,
+    "placed_on": "2026-11-17",
+    "shipped_on": "2026-11-19",
+    "courier": "SwiftPost",
+    "tracking_number": "TRK567822562",
+    "expected_delivery": "2026-11-23",
+    "payment": {
+      "method": "card",
+      "amount_paid": 16799,
+      "refunded": 0
+    },
+    "shipping_address": {
+      "line": "House 100, Street 17, I-8/4",
+      "city": "Islamabad"
+    },
+    "returns": [],
+    "refunds": []
+  },
+  {
+    "order_id": "6519",
+    "customer_id": "C-326",
+    "status": "delivered",
+    "items": [
+      {
+        "item_id": "6519-1",
+        "product_id": "P-9542",
+        "name": "Zentra Lite A2",
+        "qty": 1,
+        "unit_price": 26799
+      }
+    ],
+    "total": 26799,
+    "placed_on": "2026-10-06",
+    "shipped_on": "2026-10-08",
+    "delivered_on": "2026-10-11",
+    "expected_delivery": "2026-10-11",
+    "courier": "SwiftPost",
+    "tracking_number": "TRK839404547",
+    "payment": {
+      "method": "card",
+      "amount_paid": 26799,
+      "refunded": 0
+    },
+    "shipping_address": {
+      "line": "House 25, Street 32, North Nazimabad Block H",
+      "city": "Karachi"
+    },
+    "returns": [],
+    "refunds": []
+  },
+  {
+    "order_id": "6541",
+    "customer_id": "C-216",
+    "status": "delivered",
+    "items": [
+      {
+        "item_id": "6541-1",
+        "product_id": "P-8640",
+        "name": "Trailpak Voyager 17 Backpack",
+        "qty": 1,
+        "unit_price": 6999
+      }
+    ],
+    "total": 6999,
+    "placed_on": "2026-10-25",
+    "shipped_on": "2026-10-27",
+    "delivered_on": "2026-10-30",
+    "expected_delivery": "2026-10-30",
+    "courier": "DakExpress",
+    "tracking_number": "TRK307176950",
+    "payment": {
+      "method": "wallet",
+      "amount_paid": 6999,
+      "refunded": 0
+    },
+    "shipping_address": {
+      "line": "House 29, Street 7, North Nazimabad Block H",
+      "city": "Karachi"
+    },
+    "returns": [],
+    "refunds": []
+  },
+  {
+    "order_id": "6545",
+    "customer_id": "C-177",
+    "status": "delivered",
+    "items": [
+      {
+        "item_id": "6545-1",
+        "product_id": "P-5411",
+        "name": "Sonik Boom Mini",
+        "qty": 1,
+        "unit_price": 3499
+      }
+    ],
+    "total": 3499,
+    "placed_on": "2026-11-12",
+    "shipped_on": "2026-11-14",
+    "delivered_on": "2026-11-17",
+    "expected_delivery": "2026-11-17",
+    "courier": "DakExpress",
+    "tracking_number": "TRK994273400",
+    "payment": {
+      "method": "card",
+      "amount_paid": 3499,
+      "refunded": 0
+    },
+    "shipping_address": {
+      "line": "House 222, Street 9, Gulberg 3",
+      "city": "Lahore"
+    },
+    "returns": [],
+    "refunds": []
+  },
+  {
+    "order_id": "6559",
+    "customer_id": "C-887",
+    "status": "shipped",
+    "items": [
+      {
+        "item_id": "6559-1",
+        "product_id": "P-2888",
+        "name": "Pulse Classic",
+        "qty": 1,
+        "unit_price": 10599
+      }
+    ],
+    "total": 10599,
+    "placed_on": "2026-11-16",
+    "shipped_on": "2026-11-18",
+    "courier": "Rahbar Couriers",
+    "tracking_number": "TRK288667503",
+    "expected_delivery": "2026-11-21",
+    "payment": {
+      "method": "card",
+      "amount_paid": 10599,
+      "refunded": 0
+    },
+    "shipping_address": {
+      "line": "House 110, Street 39, North Nazimabad Block H",
+      "city": "Karachi"
+    },
+    "returns": [],
+    "refunds": []
+  },
+  {
+    "order_id": "6657",
+    "customer_id": "C-885",
+    "status": "cancelled",
+    "items": [
+      {
+        "item_id": "6657-1",
+        "product_id": "P-1826",
+        "name": "Kitchenova Toaster Duo",
+        "qty": 1,
+        "unit_price": 4199
+      },
+      {
+        "item_id": "6657-2",
+        "product_id": "P-9143",
+        "name": "Voltix 25W USB-C Charger",
+        "qty": 1,
+        "unit_price": 2399
+      }
+    ],
+    "total": 6598,
+    "placed_on": "2026-09-22",
+    "cancelled_on": "2026-09-23",
+    "payment": {
+      "method": "cod",
+      "amount_paid": 0,
+      "refunded": 0
+    },
+    "shipping_address": {
+      "line": "House 13, Street 3, Model Town",
+      "city": "Lahore"
+    },
+    "returns": [],
+    "refunds": []
+  },
+  {
+    "order_id": "6710",
+    "customer_id": "C-397",
+    "status": "cancelled",
+    "items": [
+      {
+        "item_id": "6710-1",
+        "product_id": "P-2110",
+        "name": "Trailpak Commuter 15.6 Backpack",
+        "qty": 1,
+        "unit_price": 5399
+      },
+      {
+        "item_id": "6710-2",
+        "product_id": "P-3038",
+        "name": "Zentra Z5 Pro Rugged Case",
+        "qty": 1,
+        "unit_price": 2099
+      }
+    ],
+    "total": 7498,
+    "placed_on": "2026-09-16",
+    "cancelled_on": "2026-09-17",
+    "payment": {
+      "method": "cod",
+      "amount_paid": 0,
+      "refunded": 0
+    },
+    "shipping_address": {
+      "line": "House 87, Street 17, Bahria Town Phase 4",
+      "city": "Rawalpindi"
+    },
+    "returns": [],
+    "refunds": []
+  },
+  {
+    "order_id": "7016",
+    "customer_id": "C-486",
+    "status": "delivered",
+    "items": [
+      {
+        "item_id": "7016-1",
+        "product_id": "P-9011",
+        "name": "Breezo Table Fan 12",
+        "qty": 1,
+        "unit_price": 4599
+      }
+    ],
+    "total": 4599,
+    "placed_on": "2026-11-14",
+    "shipped_on": "2026-11-16",
+    "delivered_on": "2026-11-19",
+    "expected_delivery": "2026-11-19",
+    "courier": "Rahbar Couriers",
+    "tracking_number": "TRK827729765",
+    "payment": {
+      "method": "cod",
+      "amount_paid": 4599,
+      "refunded": 0
+    },
+    "shipping_address": {
+      "line": "House 221, Street 7, Satellite Town",
+      "city": "Rawalpindi"
+    },
+    "returns": [],
+    "refunds": []
+  },
+  {
+    "order_id": "7031",
+    "customer_id": "C-992",
+    "status": "delivered",
+    "items": [
+      {
+        "item_id": "7031-1",
+        "product_id": "P-3213",
+        "name": "Sonik AirDots 2",
+        "qty": 1,
+        "unit_price": 2499
+      },
+      {
+        "item_id": "7031-2",
+        "product_id": "P-4320",
+        "name": "Pulse Run GPS",
+        "qty": 1,
+        "unit_price": 13999
+      }
+    ],
+    "total": 16498,
+    "placed_on": "2026-10-10",
+    "shipped_on": "2026-10-12",
+    "delivered_on": "2026-10-15",
+    "expected_delivery": "2026-10-15",
+    "courier": "Rahbar Couriers",
+    "tracking_number": "TRK430731577",
+    "payment": {
+      "method": "cod",
+      "amount_paid": 16498,
+      "refunded": 0
+    },
+    "shipping_address": {
+      "line": "House 87, Street 25, Gulberg 3",
+      "city": "Lahore"
+    },
+    "returns": [],
+    "refunds": []
+  },
+  {
+    "order_id": "7202",
+    "customer_id": "C-674",
+    "status": "cancelled",
+    "items": [
+      {
+        "item_id": "7202-1",
+        "product_id": "P-9011",
+        "name": "Breezo Table Fan 12",
+        "qty": 1,
+        "unit_price": 4599
+      }
+    ],
+    "total": 4599,
+    "placed_on": "2026-10-27",
+    "cancelled_on": "2026-10-28",
+    "payment": {
+      "method": "wallet",
+      "amount_paid": 4599,
+      "refunded": 4599
+    },
+    "shipping_address": {
+      "line": "House 31, Street 2, Satellite Town",
+      "city": "Rawalpindi"
+    },
+    "returns": [],
+    "refunds": [
+      {
+        "refund_id": "RF-7202",
+        "amount": 4599,
+        "source": "cancellation"
+      }
+    ]
+  },
+  {
+    "order_id": "7397",
+    "customer_id": "C-650",
+    "status": "delivered",
+    "items": [
+      {
+        "item_id": "7397-1",
+        "product_id": "P-3203",
+        "name": "Sonik BeatBuds ANC",
+        "qty": 1,
+        "unit_price": 6799
+      }
+    ],
+    "total": 6799,
+    "placed_on": "2026-10-25",
+    "shipped_on": "2026-10-27",
+    "delivered_on": "2026-10-30",
+    "expected_delivery": "2026-10-30",
+    "courier": "DakExpress",
+    "tracking_number": "TRK294417075",
+    "payment": {
+      "method": "card",
+      "amount_paid": 6799,
+      "refunded": 0
+    },
+    "shipping_address": {
+      "line": "House 165, Street 18, Clifton Block 5",
+      "city": "Karachi"
+    },
+    "returns": [],
+    "refunds": []
+  },
+  {
+    "order_id": "7435",
+    "customer_id": "C-650",
+    "status": "delivered",
+    "items": [
+      {
+        "item_id": "7435-1",
+        "product_id": "P-9089",
+        "name": "Kitchenova Blend 1000 Pro",
+        "qty": 1,
+        "unit_price": 10899
+      },
+      {
+        "item_id": "7435-2",
+        "product_id": "P-9656",
+        "name": "Auralite Buds Pro ANC",
+        "qty": 1,
+        "unit_price": 9299
+      }
+    ],
+    "total": 20198,
+    "placed_on": "2026-11-04",
+    "shipped_on": "2026-11-06",
+    "delivered_on": "2026-11-09",
+    "expected_delivery": "2026-11-09",
+    "courier": "DakExpress",
+    "tracking_number": "TRK622836338",
+    "payment": {
+      "method": "wallet",
+      "amount_paid": 20198,
+      "refunded": 0
+    },
+    "shipping_address": {
+      "line": "House 165, Street 18, Clifton Block 5",
+      "city": "Karachi"
+    },
+    "returns": [],
+    "refunds": []
+  },
+  {
+    "order_id": "7500",
+    "customer_id": "C-992",
+    "status": "delivered",
+    "items": [
+      {
+        "item_id": "7500-1",
+        "product_id": "P-4320",
+        "name": "Pulse Run GPS",
+        "qty": 1,
+        "unit_price": 13999
+      },
+      {
+        "item_id": "7500-2",
+        "product_id": "P-1828",
+        "name": "Pulse Fit 2",
+        "qty": 1,
+        "unit_price": 6399
+      }
+    ],
+    "total": 20398,
+    "placed_on": "2026-11-02",
+    "shipped_on": "2026-11-04",
+    "delivered_on": "2026-11-07",
+    "expected_delivery": "2026-11-07",
+    "courier": "DakExpress",
+    "tracking_number": "TRK999496923",
+    "payment": {
+      "method": "cod",
+      "amount_paid": 20398,
+      "refunded": 0
+    },
+    "shipping_address": {
+      "line": "House 87, Street 25, Gulberg 3",
+      "city": "Lahore"
+    },
+    "returns": [],
+    "refunds": []
+  },
+  {
+    "order_id": "7594",
+    "customer_id": "C-717",
+    "status": "delivered",
+    "items": [
+      {
+        "item_id": "7594-1",
+        "product_id": "P-4985",
+        "name": "Nimbus Pro 16",
+        "qty": 1,
+        "unit_price": 252999
+      }
+    ],
+    "total": 252999,
+    "placed_on": "2026-10-26",
+    "shipped_on": "2026-10-28",
+    "delivered_on": "2026-10-31",
+    "expected_delivery": "2026-10-31",
+    "courier": "Rahbar Couriers",
+    "tracking_number": "TRK421928887",
+    "payment": {
+      "method": "card",
+      "amount_paid": 252999,
+      "refunded": 0
+    },
+    "shipping_address": {
+      "line": "House 96, Street 22, Bahria Town Phase 4",
+      "city": "Rawalpindi"
+    },
+    "returns": [],
+    "refunds": []
+  },
+  {
+    "order_id": "7602",
+    "customer_id": "C-941",
+    "status": "delivered",
+    "items": [
+      {
+        "item_id": "7602-1",
+        "product_id": "P-1685",
+        "name": "Voltix Micro-USB Cable 1m",
+        "qty": 1,
+        "unit_price": 499
+      }
+    ],
+    "total": 499,
+    "placed_on": "2026-08-27",
+    "shipped_on": "2026-08-29",
+    "delivered_on": "2026-09-01",
+    "expected_delivery": "2026-09-01",
+    "courier": "DakExpress",
+    "tracking_number": "TRK953299588",
+    "payment": {
+      "method": "cod",
+      "amount_paid": 499,
+      "refunded": 0
+    },
+    "shipping_address": {
+      "line": "House 222, Street 20, Wapda Town",
+      "city": "Lahore"
+    },
+    "returns": [],
+    "refunds": []
+  },
+  {
+    "order_id": "7748",
+    "customer_id": "C-587",
+    "status": "delivered",
+    "items": [
+      {
+        "item_id": "7748-1",
+        "product_id": "P-8539",
+        "name": "Sonik Boom 20",
+        "qty": 1,
+        "unit_price": 7299
+      }
+    ],
+    "total": 7299,
+    "placed_on": "2026-10-01",
+    "shipped_on": "2026-10-03",
+    "delivered_on": "2026-10-06",
+    "expected_delivery": "2026-10-06",
+    "courier": "DakExpress",
+    "tracking_number": "TRK435212957",
+    "payment": {
+      "method": "card",
+      "amount_paid": 7299,
+      "refunded": 0
+    },
+    "shipping_address": {
+      "line": "House 138, Street 3, Gulberg 3",
+      "city": "Lahore"
+    },
+    "returns": [],
+    "refunds": []
+  },
+  {
+    "order_id": "7882",
+    "customer_id": "C-979",
+    "status": "processing",
+    "items": [
+      {
+        "item_id": "7882-1",
+        "product_id": "P-9598",
+        "name": "Auralite Studio 700 ANC",
+        "qty": 1,
+        "unit_price": 15599
+      },
+      {
+        "item_id": "7882-2",
+        "product_id": "P-9203",
+        "name": "Nimbus Work 15",
+        "qty": 1,
+        "unit_price": 108199
+      }
+    ],
+    "total": 123798,
+    "placed_on": "2026-11-19",
+    "expected_delivery": "2026-11-24",
+    "payment": {
+      "method": "wallet",
+      "amount_paid": 123798,
+      "refunded": 0
+    },
+    "shipping_address": {
+      "line": "House 238, Street 20, PECHS Block 2",
+      "city": "Karachi"
+    },
+    "returns": [],
+    "refunds": []
+  },
+  {
+    "order_id": "7886",
+    "customer_id": "C-107",
+    "status": "processing",
+    "items": [
+      {
+        "item_id": "7886-1",
+        "product_id": "P-2357",
+        "name": "Nova X1",
+        "qty": 1,
+        "unit_price": 33899
+      }
+    ],
+    "total": 33899,
+    "placed_on": "2026-11-19",
+    "expected_delivery": "2026-11-24",
+    "payment": {
+      "method": "wallet",
+      "amount_paid": 33899,
+      "refunded": 0
+    },
+    "shipping_address": {
+      "line": "House 30, Street 21, G-11/1",
+      "city": "Islamabad"
+    },
+    "returns": [],
+    "refunds": []
+  },
+  {
+    "order_id": "7908",
+    "customer_id": "C-929",
+    "status": "delivered",
+    "items": [
+      {
+        "item_id": "7908-1",
+        "product_id": "P-8756",
+        "name": "Sonik Bass 300",
+        "qty": 1,
+        "unit_price": 4799
+      }
+    ],
+    "total": 4799,
+    "placed_on": "2026-11-13",
+    "shipped_on": "2026-11-15",
+    "delivered_on": "2026-11-18",
+    "expected_delivery": "2026-11-18",
+    "courier": "SwiftPost",
+    "tracking_number": "TRK812936413",
+    "payment": {
+      "method": "cod",
+      "amount_paid": 4799,
+      "refunded": 0
+    },
+    "shipping_address": {
+      "line": "House 2, Street 28, Chaklala 3",
+      "city": "Rawalpindi"
+    },
+    "returns": [],
+    "refunds": []
+  },
+  {
+    "order_id": "8013",
+    "customer_id": "C-681",
+    "status": "delivered",
+    "items": [
+      {
+        "item_id": "8013-1",
+        "product_id": "P-9203",
+        "name": "Nimbus Work 15",
+        "qty": 1,
+        "unit_price": 108199
+      }
+    ],
+    "total": 108199,
+    "placed_on": "2026-10-21",
+    "shipped_on": "2026-10-23",
+    "delivered_on": "2026-10-26",
+    "expected_delivery": "2026-10-26",
+    "courier": "SwiftPost",
+    "tracking_number": "TRK303071169",
+    "payment": {
+      "method": "cod",
+      "amount_paid": 108199,
+      "refunded": 0
+    },
+    "shipping_address": {
+      "line": "House 128, Street 34, DHA Phase 5",
+      "city": "Lahore"
+    },
+    "returns": [],
+    "refunds": []
+  },
+  {
+    "order_id": "8015",
+    "customer_id": "C-705",
+    "status": "delivered",
+    "items": [
+      {
+        "item_id": "8015-1",
+        "product_id": "P-3203",
+        "name": "Sonik BeatBuds ANC",
+        "qty": 1,
+        "unit_price": 6799
+      }
+    ],
+    "total": 6799,
+    "placed_on": "2026-10-06",
+    "shipped_on": "2026-10-08",
+    "delivered_on": "2026-10-11",
+    "expected_delivery": "2026-10-11",
+    "courier": "SwiftPost",
+    "tracking_number": "TRK448020675",
+    "payment": {
+      "method": "cod",
+      "amount_paid": 6799,
+      "refunded": 0
+    },
+    "shipping_address": {
+      "line": "House 237, Street 8, F-7/1",
+      "city": "Islamabad"
+    },
+    "returns": [],
+    "refunds": []
+  },
+  {
+    "order_id": "8129",
+    "customer_id": "C-829",
+    "status": "delivered",
+    "items": [
+      {
+        "item_id": "8129-1",
+        "product_id": "P-9203",
+        "name": "Nimbus Work 15",
+        "qty": 1,
+        "unit_price": 108199
+      }
+    ],
+    "total": 108199,
+    "placed_on": "2026-10-17",
+    "shipped_on": "2026-10-19",
+    "delivered_on": "2026-10-22",
+    "expected_delivery": "2026-10-22",
+    "courier": "SwiftPost",
+    "tracking_number": "TRK959720597",
+    "payment": {
+      "method": "card",
+      "amount_paid": 108199,
+      "refunded": 0
+    },
+    "shipping_address": {
+      "line": "House 249, Street 34, Gulshan-e-Iqbal Block 13",
+      "city": "Karachi"
+    },
+    "returns": [],
+    "refunds": []
+  },
+  {
+    "order_id": "8285",
+    "customer_id": "C-660",
+    "status": "cancelled",
+    "items": [
+      {
+        "item_id": "8285-1",
+        "product_id": "P-9598",
+        "name": "Auralite Studio 700 ANC",
+        "qty": 1,
+        "unit_price": 15599
+      }
+    ],
+    "total": 15599,
+    "placed_on": "2026-10-07",
+    "cancelled_on": "2026-10-08",
+    "payment": {
+      "method": "card",
+      "amount_paid": 15599,
+      "refunded": 15599
+    },
+    "shipping_address": {
+      "line": "House 206, Street 29, Gulberg 3",
+      "city": "Lahore"
+    },
+    "returns": [],
+    "refunds": [
+      {
+        "refund_id": "RF-8285",
+        "amount": 15599,
+        "source": "cancellation"
+      }
+    ]
+  },
+  {
+    "order_id": "8392",
+    "customer_id": "C-632",
+    "status": "delivered",
+    "items": [
+      {
+        "item_id": "8392-1",
+        "product_id": "P-8536",
+        "name": "Voltix PowerCell 20000",
+        "qty": 1,
+        "unit_price": 4999
+      }
+    ],
+    "total": 4999,
+    "placed_on": "2026-11-13",
+    "shipped_on": "2026-11-15",
+    "delivered_on": "2026-11-18",
+    "expected_delivery": "2026-11-18",
+    "courier": "DakExpress",
+    "tracking_number": "TRK699555827",
+    "payment": {
+      "method": "cod",
+      "amount_paid": 4999,
+      "refunded": 0
+    },
+    "shipping_address": {
+      "line": "House 149, Street 23, I-8/4",
+      "city": "Islamabad"
+    },
+    "returns": [],
+    "refunds": []
+  },
+  {
+    "order_id": "8581",
+    "customer_id": "C-521",
+    "status": "delivered",
+    "items": [
+      {
+        "item_id": "8581-1",
+        "product_id": "P-6180",
+        "name": "Voltix PowerCell 10000",
+        "qty": 1,
+        "unit_price": 3099
+      }
+    ],
+    "total": 3099,
+    "placed_on": "2026-10-11",
+    "shipped_on": "2026-10-13",
+    "delivered_on": "2026-10-16",
+    "expected_delivery": "2026-10-16",
+    "courier": "DakExpress",
+    "tracking_number": "TRK201310853",
+    "payment": {
+      "method": "cod",
+      "amount_paid": 3099,
+      "refunded": 0
+    },
+    "shipping_address": {
+      "line": "House 13, Street 8, North Nazimabad Block H",
+      "city": "Karachi"
+    },
+    "returns": [],
+    "refunds": []
+  },
+  {
+    "order_id": "8614",
+    "customer_id": "C-281",
+    "status": "delivered",
+    "items": [
+      {
+        "item_id": "8614-1",
+        "product_id": "P-9656",
+        "name": "Auralite Buds Pro ANC",
+        "qty": 1,
+        "unit_price": 9299
+      }
+    ],
+    "total": 9299,
+    "placed_on": "2026-11-10",
+    "shipped_on": "2026-11-12",
+    "delivered_on": "2026-11-15",
+    "expected_delivery": "2026-11-15",
+    "courier": "SwiftPost",
+    "tracking_number": "TRK699973231",
+    "payment": {
+      "method": "wallet",
+      "amount_paid": 9299,
+      "refunded": 0
+    },
+    "shipping_address": {
+      "line": "House 169, Street 20, Satellite Town",
+      "city": "Rawalpindi"
+    },
+    "returns": [],
+    "refunds": []
+  },
+  {
+    "order_id": "8653",
+    "customer_id": "C-584",
+    "status": "processing",
+    "items": [
+      {
+        "item_id": "8653-1",
+        "product_id": "P-3789",
+        "name": "Zentra Z5",
+        "qty": 1,
+        "unit_price": 41499
+      }
+    ],
+    "total": 41499,
+    "placed_on": "2026-11-19",
+    "expected_delivery": "2026-11-24",
+    "payment": {
+      "method": "card",
+      "amount_paid": 41499,
+      "refunded": 0
+    },
+    "shipping_address": {
+      "line": "House 73, Street 26, PECHS Block 2",
+      "city": "Karachi"
+    },
+    "returns": [],
+    "refunds": []
+  },
+  {
+    "order_id": "8779",
+    "customer_id": "C-607",
+    "status": "shipped",
+    "items": [
+      {
+        "item_id": "8779-1",
+        "product_id": "P-8756",
+        "name": "Sonik Bass 300",
+        "qty": 1,
+        "unit_price": 4799
+      }
+    ],
+    "total": 4799,
+    "placed_on": "2026-11-16",
+    "shipped_on": "2026-11-18",
+    "courier": "Rahbar Couriers",
+    "tracking_number": "TRK827154037",
+    "expected_delivery": "2026-11-21",
+    "payment": {
+      "method": "cod",
+      "amount_paid": 0,
+      "refunded": 0
+    },
+    "shipping_address": {
+      "line": "House 21, Street 33, Westridge 1",
+      "city": "Rawalpindi"
+    },
+    "returns": [],
+    "refunds": []
+  },
+  {
+    "order_id": "8914",
+    "customer_id": "C-583",
+    "status": "delivered",
+    "items": [
+      {
+        "item_id": "8914-1",
+        "product_id": "P-2888",
+        "name": "Pulse Classic",
+        "qty": 1,
+        "unit_price": 10599
+      }
+    ],
+    "total": 10599,
+    "placed_on": "2026-11-09",
+    "shipped_on": "2026-11-11",
+    "delivered_on": "2026-11-14",
+    "expected_delivery": "2026-11-14",
+    "courier": "Rahbar Couriers",
+    "tracking_number": "TRK194046405",
+    "payment": {
+      "method": "card",
+      "amount_paid": 10599,
+      "refunded": 0
+    },
+    "shipping_address": {
+      "line": "House 38, Street 8, F-7/1",
+      "city": "Islamabad"
+    },
+    "returns": [],
+    "refunds": []
+  },
+  {
+    "order_id": "9217",
+    "customer_id": "C-885",
+    "status": "delivered",
+    "items": [
+      {
+        "item_id": "9217-1",
+        "product_id": "P-2113",
+        "name": "Zentra Max 12",
+        "qty": 1,
+        "unit_price": 73399
+      }
+    ],
+    "total": 73399,
+    "placed_on": "2026-09-29",
+    "shipped_on": "2026-10-01",
+    "delivered_on": "2026-10-04",
+    "expected_delivery": "2026-10-04",
+    "courier": "Rahbar Couriers",
+    "tracking_number": "TRK808824939",
+    "payment": {
+      "method": "card",
+      "amount_paid": 73399,
+      "refunded": 0
+    },
+    "shipping_address": {
+      "line": "House 13, Street 3, Model Town",
+      "city": "Lahore"
+    },
+    "returns": [],
+    "refunds": []
+  },
+  {
+    "order_id": "9226",
+    "customer_id": "C-694",
+    "status": "delivered",
+    "items": [
+      {
+        "item_id": "9226-1",
+        "product_id": "P-3213",
+        "name": "Sonik AirDots 2",
+        "qty": 1,
+        "unit_price": 2499
+      }
+    ],
+    "total": 2499,
+    "placed_on": "2026-10-27",
+    "shipped_on": "2026-10-29",
+    "delivered_on": "2026-11-01",
+    "expected_delivery": "2026-11-01",
+    "courier": "Rahbar Couriers",
+    "tracking_number": "TRK532382115",
+    "payment": {
+      "method": "card",
+      "amount_paid": 2499,
+      "refunded": 0
+    },
+    "shipping_address": {
+      "line": "House 165, Street 10, Gulshan-e-Iqbal Block 13",
+      "city": "Karachi"
+    },
+    "returns": [],
+    "refunds": []
+  },
+  {
+    "order_id": "9252",
+    "customer_id": "C-998",
+    "status": "delivered",
+    "items": [
+      {
+        "item_id": "9252-1",
+        "product_id": "P-1828",
+        "name": "Pulse Fit 2",
+        "qty": 1,
+        "unit_price": 6399
+      }
+    ],
+    "total": 6399,
+    "placed_on": "2026-10-16",
+    "shipped_on": "2026-10-18",
+    "delivered_on": "2026-10-21",
+    "expected_delivery": "2026-10-21",
+    "courier": "SwiftPost",
+    "tracking_number": "TRK409147014",
+    "payment": {
+      "method": "wallet",
+      "amount_paid": 6399,
+      "refunded": 0
+    },
+    "shipping_address": {
+      "line": "House 100, Street 17, I-8/4",
+      "city": "Islamabad"
+    },
+    "returns": [],
+    "refunds": []
+  },
+  {
+    "order_id": "9311",
+    "customer_id": "C-763",
+    "status": "shipped",
+    "items": [
+      {
+        "item_id": "9311-1",
+        "product_id": "P-7854",
+        "name": "Trailpak Slim 14 Sleeve",
+        "qty": 1,
+        "unit_price": 2099
+      }
+    ],
+    "total": 2099,
+    "placed_on": "2026-11-16",
+    "shipped_on": "2026-11-18",
+    "courier": "SwiftPost",
+    "tracking_number": "TRK410442298",
+    "expected_delivery": "2026-11-23",
+    "payment": {
+      "method": "wallet",
+      "amount_paid": 2099,
+      "refunded": 0
+    },
+    "shipping_address": {
+      "line": "House 25, Street 34, G-9/2",
+      "city": "Islamabad"
+    },
+    "returns": [],
+    "refunds": []
+  },
+  {
+    "order_id": "9343",
+    "customer_id": "C-567",
+    "status": "delivered",
+    "items": [
+      {
+        "item_id": "9343-1",
+        "product_id": "P-6542",
+        "name": "Auralite Buds Lite",
+        "qty": 1,
+        "unit_price": 3199
+      },
+      {
+        "item_id": "9343-2",
+        "product_id": "P-5163",
+        "name": "Breezo Rechargeable Fan 14",
+        "qty": 1,
+        "unit_price": 14099
+      }
+    ],
+    "total": 17298,
+    "placed_on": "2026-10-02",
+    "shipped_on": "2026-10-04",
+    "delivered_on": "2026-10-07",
+    "expected_delivery": "2026-10-07",
+    "courier": "Rahbar Couriers",
+    "tracking_number": "TRK389223562",
+    "payment": {
+      "method": "cod",
+      "amount_paid": 17298,
+      "refunded": 0
+    },
+    "shipping_address": {
+      "line": "House 226, Street 32, Chaklala 3",
+      "city": "Rawalpindi"
+    },
+    "returns": [],
+    "refunds": []
+  },
+  {
+    "order_id": "9457",
+    "customer_id": "C-144",
+    "status": "delivered",
+    "items": [
+      {
+        "item_id": "9457-1",
+        "product_id": "P-1828",
+        "name": "Pulse Fit 2",
+        "qty": 1,
+        "unit_price": 6399
+      }
+    ],
+    "total": 6399,
+    "placed_on": "2026-11-05",
+    "shipped_on": "2026-11-07",
+    "delivered_on": "2026-11-10",
+    "expected_delivery": "2026-11-10",
+    "courier": "Rahbar Couriers",
+    "tracking_number": "TRK821846266",
+    "payment": {
+      "method": "cod",
+      "amount_paid": 6399,
+      "refunded": 0
+    },
+    "shipping_address": {
+      "line": "House 182, Street 8, F-10/3",
+      "city": "Islamabad"
+    },
+    "returns": [],
+    "refunds": []
+  },
+  {
+    "order_id": "9546",
+    "customer_id": "C-137",
+    "status": "placed",
+    "items": [
+      {
+        "item_id": "9546-1",
+        "product_id": "P-9011",
+        "name": "Breezo Table Fan 12",
+        "qty": 1,
+        "unit_price": 4599
+      }
+    ],
+    "total": 4599,
+    "placed_on": "2026-11-20",
+    "expected_delivery": "2026-11-25",
+    "payment": {
+      "method": "cod",
+      "amount_paid": 0,
+      "refunded": 0
+    },
+    "shipping_address": {
+      "line": "House 119, Street 10, E-11/2",
+      "city": "Islamabad"
+    },
+    "returns": [],
+    "refunds": []
+  },
+  {
+    "order_id": "9593",
+    "customer_id": "C-589",
+    "status": "delivered",
+    "items": [
+      {
+        "item_id": "9593-1",
+        "product_id": "P-4985",
+        "name": "Nimbus Pro 16",
+        "qty": 1,
+        "unit_price": 252999
+      }
+    ],
+    "total": 252999,
+    "placed_on": "2026-10-26",
+    "shipped_on": "2026-10-28",
+    "delivered_on": "2026-10-31",
+    "expected_delivery": "2026-10-31",
+    "courier": "Rahbar Couriers",
+    "tracking_number": "TRK738547749",
+    "payment": {
+      "method": "card",
+      "amount_paid": 252999,
+      "refunded": 0
+    },
+    "shipping_address": {
+      "line": "House 99, Street 39, Bahria Town Phase 4",
+      "city": "Rawalpindi"
+    },
+    "returns": [],
+    "refunds": []
+  },
+  {
+    "order_id": "9723",
+    "customer_id": "C-705",
+    "status": "delivered",
+    "items": [
+      {
+        "item_id": "9723-1",
+        "product_id": "P-7695",
+        "name": "Zentra Z5 Clear Case",
+        "qty": 1,
+        "unit_price": 1299
+      }
+    ],
+    "total": 1299,
+    "placed_on": "2026-11-05",
+    "shipped_on": "2026-11-07",
+    "delivered_on": "2026-11-10",
+    "expected_delivery": "2026-11-10",
+    "courier": "SwiftPost",
+    "tracking_number": "TRK575328216",
+    "payment": {
+      "method": "card",
+      "amount_paid": 1299,
+      "refunded": 0
+    },
+    "shipping_address": {
+      "line": "House 237, Street 8, F-7/1",
+      "city": "Islamabad"
+    },
+    "returns": [],
+    "refunds": []
+  },
+  {
+    "order_id": "9835",
+    "customer_id": "C-603",
+    "status": "shipped",
+    "items": [
+      {
+        "item_id": "9835-1",
+        "product_id": "P-4320",
+        "name": "Pulse Run GPS",
+        "qty": 1,
+        "unit_price": 13999
+      }
+    ],
+    "total": 13999,
+    "placed_on": "2026-11-17",
+    "shipped_on": "2026-11-19",
+    "courier": "Rahbar Couriers",
+    "tracking_number": "TRK751106129",
+    "original_expected_delivery": "2026-11-18",
+    "expected_delivery": "2026-11-22",
+    "delayed": true,
+    "delay_reason": "courier backlog",
+    "payment": {
+      "method": "card",
+      "amount_paid": 13999,
+      "refunded": 0
+    },
+    "shipping_address": {
+      "line": "House 94, Street 8, PECHS Block 2",
+      "city": "Karachi"
+    },
+    "returns": [],
+    "refunds": []
+  },
+  {
+    "order_id": "9993",
+    "customer_id": "C-829",
+    "status": "delivered",
+    "items": [
+      {
+        "item_id": "9993-1",
+        "product_id": "P-1069",
+        "name": "Clickr Silent Mouse",
+        "qty": 1,
+        "unit_price": 1599
+      }
+    ],
+    "total": 1599,
+    "placed_on": "2026-10-13",
+    "shipped_on": "2026-10-15",
+    "delivered_on": "2026-10-18",
+    "expected_delivery": "2026-10-18",
+    "courier": "SwiftPost",
+    "tracking_number": "TRK414671119",
+    "payment": {
+      "method": "card",
+      "amount_paid": 1599,
+      "refunded": 0
+    },
+    "shipping_address": {
+      "line": "House 249, Street 34, Gulshan-e-Iqbal Block 13",
+      "city": "Karachi"
+    },
+    "returns": [],
+    "refunds": []
+  }
+]

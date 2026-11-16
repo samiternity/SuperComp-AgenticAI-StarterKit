@@ -1,0 +1,5 @@
+# Everything for running the kit on your laptop. The server installs only agent/requirements.txt.
+-r agent/requirements.txt
+fastapi>=0.110
+uvicorn>=0.29
+websockets>=12   # the shop page (--view) streams the run live over a WebSocket

@@ -1,0 +1,58 @@
+[
+  {
+    "question": "How long does delivery take?",
+    "answer": "Standard delivery takes 3 to 6 working days across Pakistan. The expected delivery date is shown on each order."
+  },
+  {
+    "question": "Which payment methods do you accept?",
+    "answer": "Debit and credit cards, mobile wallets, and cash on delivery."
+  },
+  {
+    "question": "How do refunds work?",
+    "answer": "Refunds go back to the original payment method within 5 working days. Cash-on-delivery orders are refunded by bank transfer."
+  },
+  {
+    "question": "Can I change my delivery address?",
+    "answer": "The support desk cannot change an address. Your request is passed to the delivery team."
+  },
+  {
+    "question": "Do products have a warranty?",
+    "answer": "Most products have a 6 or 12 month warranty against manufacturing faults; see the product page."
+  },
+  {
+    "question": "Can I return earbuds?",
+    "answer": "In-ear earbuds are final sale for hygiene reasons and cannot be returned for a change of mind. Faulty earbuds are covered."
+  },
+  {
+    "question": "What is a clearance item?",
+    "answer": "A discounted item sold as final sale. It can only be returned if damaged, defective or wrong."
+  },
+  {
+    "question": "How do I track my order?",
+    "answer": "Ask support with your order number; shipped orders show the courier and tracking number."
+  },
+  {
+    "question": "Is cash on delivery available everywhere?",
+    "answer": "Cash on delivery is available in all cities we deliver to, for orders up to Rs 100,000."
+  },
+  {
+    "question": "Do you deliver outside Pakistan?",
+    "answer": "No, we only deliver within Pakistan."
+  },
+  {
+    "question": "What are your support hours?",
+    "answer": "Support is available every day from 9 am to 11 pm."
+  },
+  {
+    "question": "Can I cancel part of an order?",
+    "answer": "No. An order can only be cancelled as a whole, and only before it ships."
+  },
+  {
+    "question": "Do you offer gift wrapping?",
+    "answer": "Not at the moment."
+  },
+  {
+    "question": "Are prices inclusive of tax?",
+    "answer": "Yes, all prices include sales tax. Delivery is free."
+  }
+]

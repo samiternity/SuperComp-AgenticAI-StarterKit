@@ -1,0 +1,3 @@
+# The kit's own needs. Add any packages your agent uses below them.
+openai>=1.40
+httpx>=0.27

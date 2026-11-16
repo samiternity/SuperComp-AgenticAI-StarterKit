@@ -1,0 +1,11 @@
+{
+  "params": {
+    "cancellable_statuses": [
+      "placed",
+      "processing"
+    ],
+    "return_window_days": 14,
+    "fault_window_days": 30,
+    "refund_days": 5
+  }
+}

@@ -1,0 +1,827 @@
+[
+  {
+    "customer_id": "C-107",
+    "name": "Bilal Sheikh",
+    "email": "bilal.sheikh2@mail.example.pk",
+    "phone": "0335-5551292",
+    "address": {
+      "line": "House 30, Street 21, G-11/1",
+      "city": "Islamabad"
+    },
+    "member_since": "2024-11-25"
+  },
+  {
+    "customer_id": "C-113",
+    "name": "Bilal Abbasi",
+    "email": "bilal.abbasi35@mail.example.pk",
+    "phone": "0304-5551002",
+    "address": {
+      "line": "House 198, Street 2, Chaklala 3",
+      "city": "Rawalpindi"
+    },
+    "member_since": "2024-01-10"
+  },
+  {
+    "customer_id": "C-137",
+    "name": "Mahnoor Farooq",
+    "email": "mahnoor.farooq13@mail.example.pk",
+    "phone": "0325-5559092",
+    "address": {
+      "line": "House 119, Street 10, E-11/2",
+      "city": "Islamabad"
+    },
+    "member_since": "2026-09-11"
+  },
+  {
+    "customer_id": "C-144",
+    "name": "Kashif Malik",
+    "email": "kashif.malik76@mail.example.pk",
+    "phone": "0344-5554416",
+    "address": {
+      "line": "House 182, Street 8, F-10/3",
+      "city": "Islamabad"
+    },
+    "member_since": "2022-11-22"
+  },
+  {
+    "customer_id": "C-153",
+    "name": "Waqas Javed",
+    "email": "waqas.javed95@mail.example.pk",
+    "phone": "0317-5551977",
+    "address": {
+      "line": "House 232, Street 26, Johar Town",
+      "city": "Lahore"
+    },
+    "member_since": "2025-09-28"
+  },
+  {
+    "customer_id": "C-163",
+    "name": "Rabia Malik",
+    "email": "rabia.malik91@mail.example.pk",
+    "phone": "0328-5552991",
+    "address": {
+      "line": "House 162, Street 37, North Nazimabad Block H",
+      "city": "Karachi"
+    },
+    "member_since": "2024-08-11"
+  },
+  {
+    "customer_id": "C-177",
+    "name": "Hafsa Javed",
+    "email": "hafsa.javed14@mail.example.pk",
+    "phone": "0333-5559225",
+    "address": {
+      "line": "House 222, Street 9, Gulberg 3",
+      "city": "Lahore"
+    },
+    "member_since": "2025-10-09"
+  },
+  {
+    "customer_id": "C-207",
+    "name": "Zainab Iqbal",
+    "email": "zainab.iqbal29@mail.example.pk",
+    "phone": "0342-5559603",
+    "address": {
+      "line": "House 63, Street 1, Satellite Town",
+      "city": "Rawalpindi"
+    },
+    "member_since": "2026-09-15"
+  },
+  {
+    "customer_id": "C-216",
+    "name": "Laiba Malik",
+    "email": "laiba.malik41@mail.example.pk",
+    "phone": "0344-5558630",
+    "address": {
+      "line": "House 29, Street 7, North Nazimabad Block H",
+      "city": "Karachi"
+    },
+    "member_since": "2024-11-11"
+  },
+  {
+    "customer_id": "C-231",
+    "name": "Hassan Butt",
+    "email": "hassan.butt29@mail.example.pk",
+    "phone": "0303-5553169",
+    "address": {
+      "line": "House 167, Street 33, I-8/4",
+      "city": "Islamabad"
+    },
+    "member_since": "2026-03-02"
+  },
+  {
+    "customer_id": "C-244",
+    "name": "Hamza Hashmi",
+    "email": "hamza.hashmi25@mail.example.pk",
+    "phone": "0300-5559244",
+    "address": {
+      "line": "House 25, Street 11, PECHS Block 2",
+      "city": "Karachi"
+    },
+    "member_since": "2026-05-12"
+  },
+  {
+    "customer_id": "C-258",
+    "name": "Junaid Aslam",
+    "email": "junaid.aslam2@mail.example.pk",
+    "phone": "0329-5553342",
+    "address": {
+      "line": "House 236, Street 15, Westridge 1",
+      "city": "Rawalpindi"
+    },
+    "member_since": "2026-02-25"
+  },
+  {
+    "customer_id": "C-264",
+    "name": "Ayesha Rehman",
+    "email": "ayesha.rehman43@mail.example.pk",
+    "phone": "0324-5557558",
+    "address": {
+      "line": "House 27, Street 9, Clifton Block 5",
+      "city": "Karachi"
+    },
+    "member_since": "2025-08-03"
+  },
+  {
+    "customer_id": "C-281",
+    "name": "Iqra Khan",
+    "email": "iqra.khan89@mail.example.pk",
+    "phone": "0323-5557748",
+    "address": {
+      "line": "House 169, Street 20, Satellite Town",
+      "city": "Rawalpindi"
+    },
+    "member_since": "2023-05-27"
+  },
+  {
+    "customer_id": "C-294",
+    "name": "Areeba Raza",
+    "email": "areeba.raza88@mail.example.pk",
+    "phone": "0317-5559924",
+    "address": {
+      "line": "House 33, Street 6, Chaklala 3",
+      "city": "Rawalpindi"
+    },
+    "member_since": "2024-01-21"
+  },
+  {
+    "customer_id": "C-296",
+    "name": "Junaid Qureshi",
+    "email": "junaid.qureshi11@mail.example.pk",
+    "phone": "0312-5553342",
+    "address": {
+      "line": "House 16, Street 2, Bahria Town Phase 4",
+      "city": "Rawalpindi"
+    },
+    "member_since": "2026-04-12"
+  },
+  {
+    "customer_id": "C-308",
+    "name": "Mehwish Qureshi",
+    "email": "mehwish.qureshi72@mail.example.pk",
+    "phone": "0325-5552652",
+    "address": {
+      "line": "House 133, Street 13, Clifton Block 5",
+      "city": "Karachi"
+    },
+    "member_since": "2024-08-04"
+  },
+  {
+    "customer_id": "C-309",
+    "name": "Laiba Siddiqui",
+    "email": "laiba.siddiqui64@mail.example.pk",
+    "phone": "0342-5555934",
+    "address": {
+      "line": "House 212, Street 32, North Nazimabad Block H",
+      "city": "Karachi"
+    },
+    "member_since": "2024-10-18"
+  },
+  {
+    "customer_id": "C-326",
+    "name": "Mehwish Sheikh",
+    "email": "mehwish.sheikh89@mail.example.pk",
+    "phone": "0325-5551525",
+    "address": {
+      "line": "House 25, Street 32, North Nazimabad Block H",
+      "city": "Karachi"
+    },
+    "member_since": "2023-12-12"
+  },
+  {
+    "customer_id": "C-338",
+    "name": "Mahnoor Abbasi",
+    "email": "mahnoor.abbasi18@mail.example.pk",
+    "phone": "0335-5556892",
+    "address": {
+      "line": "House 204, Street 33, Clifton Block 5",
+      "city": "Karachi"
+    },
+    "member_since": "2025-08-18"
+  },
+  {
+    "customer_id": "C-364",
+    "name": "Usman Baig",
+    "email": "usman.baig77@mail.example.pk",
+    "phone": "0325-5558502",
+    "address": {
+      "line": "House 43, Street 35, Model Town",
+      "city": "Lahore"
+    },
+    "member_since": "2023-11-24"
+  },
+  {
+    "customer_id": "C-396",
+    "name": "Mehwish Akhtar",
+    "email": "mehwish.akhtar22@mail.example.pk",
+    "phone": "0329-5555347",
+    "address": {
+      "line": "House 109, Street 14, G-11/1",
+      "city": "Islamabad"
+    },
+    "member_since": "2024-11-27"
+  },
+  {
+    "customer_id": "C-397",
+    "name": "Fatima Baig",
+    "email": "fatima.baig73@mail.example.pk",
+    "phone": "0317-5558932",
+    "address": {
+      "line": "House 87, Street 17, Bahria Town Phase 4",
+      "city": "Rawalpindi"
+    },
+    "member_since": "2024-04-21"
+  },
+  {
+    "customer_id": "C-417",
+    "name": "Faisal Raza",
+    "email": "faisal.raza48@mail.example.pk",
+    "phone": "0310-5556262",
+    "address": {
+      "line": "House 234, Street 32, G-9/2",
+      "city": "Islamabad"
+    },
+    "member_since": "2022-12-25"
+  },
+  {
+    "customer_id": "C-463",
+    "name": "Saba Farooq",
+    "email": "saba.farooq2@mail.example.pk",
+    "phone": "0320-5556776",
+    "address": {
+      "line": "House 249, Street 26, G-9/2",
+      "city": "Islamabad"
+    },
+    "member_since": "2026-04-08"
+  },
+  {
+    "customer_id": "C-474",
+    "name": "Usman Butt",
+    "email": "usman.butt95@mail.example.pk",
+    "phone": "0304-5559277",
+    "address": {
+      "line": "House 8, Street 38, F-7/1",
+      "city": "Islamabad"
+    },
+    "member_since": "2026-07-26"
+  },
+  {
+    "customer_id": "C-486",
+    "name": "Sadia Butt",
+    "email": "sadia.butt55@mail.example.pk",
+    "phone": "0319-5551941",
+    "address": {
+      "line": "House 221, Street 7, Satellite Town",
+      "city": "Rawalpindi"
+    },
+    "member_since": "2025-07-06"
+  },
+  {
+    "customer_id": "C-521",
+    "name": "Ali Khan",
+    "email": "ali.khan37@mail.example.pk",
+    "phone": "0312-5559697",
+    "address": {
+      "line": "House 13, Street 8, North Nazimabad Block H",
+      "city": "Karachi"
+    },
+    "member_since": "2024-10-22"
+  },
+  {
+    "customer_id": "C-552",
+    "name": "Mahnoor Chaudhry",
+    "email": "mahnoor.chaudhry66@mail.example.pk",
+    "phone": "0330-5552855",
+    "address": {
+      "line": "House 246, Street 18, G-9/2",
+      "city": "Islamabad"
+    },
+    "member_since": "2023-09-18"
+  },
+  {
+    "customer_id": "C-567",
+    "name": "Sadia Farooq",
+    "email": "sadia.farooq70@mail.example.pk",
+    "phone": "0311-5552571",
+    "address": {
+      "line": "House 226, Street 32, Chaklala 3",
+      "city": "Rawalpindi"
+    },
+    "member_since": "2025-05-06"
+  },
+  {
+    "customer_id": "C-576",
+    "name": "Talha Sheikh",
+    "email": "talha.sheikh50@mail.example.pk",
+    "phone": "0307-5555118",
+    "address": {
+      "line": "House 81, Street 12, DHA Phase 5",
+      "city": "Lahore"
+    },
+    "member_since": "2024-06-06"
+  },
+  {
+    "customer_id": "C-583",
+    "name": "Mehwish Chaudhry",
+    "email": "mehwish.chaudhry73@mail.example.pk",
+    "phone": "0310-5558026",
+    "address": {
+      "line": "House 38, Street 8, F-7/1",
+      "city": "Islamabad"
+    },
+    "member_since": "2026-04-03"
+  },
+  {
+    "customer_id": "C-584",
+    "name": "Hamza Rehman",
+    "email": "hamza.rehman93@mail.example.pk",
+    "phone": "0323-5559234",
+    "address": {
+      "line": "House 73, Street 26, PECHS Block 2",
+      "city": "Karachi"
+    },
+    "member_since": "2024-02-25"
+  },
+  {
+    "customer_id": "C-587",
+    "name": "Ahmed Siddiqui",
+    "email": "ahmed.siddiqui3@mail.example.pk",
+    "phone": "0306-5555391",
+    "address": {
+      "line": "House 138, Street 3, Gulberg 3",
+      "city": "Lahore"
+    },
+    "member_since": "2024-08-06"
+  },
+  {
+    "customer_id": "C-589",
+    "name": "Maryam Raza",
+    "email": "maryam.raza92@mail.example.pk",
+    "phone": "0346-5556653",
+    "address": {
+      "line": "House 99, Street 39, Bahria Town Phase 4",
+      "city": "Rawalpindi"
+    },
+    "member_since": "2024-10-15"
+  },
+  {
+    "customer_id": "C-603",
+    "name": "Ayesha Aslam",
+    "email": "ayesha.aslam44@mail.example.pk",
+    "phone": "0336-5553018",
+    "address": {
+      "line": "House 94, Street 8, PECHS Block 2",
+      "city": "Karachi"
+    },
+    "member_since": "2023-07-16"
+  },
+  {
+    "customer_id": "C-607",
+    "name": "Hira Hashmi",
+    "email": "hira.hashmi96@mail.example.pk",
+    "phone": "0332-5553053",
+    "address": {
+      "line": "House 21, Street 33, Westridge 1",
+      "city": "Rawalpindi"
+    },
+    "member_since": "2026-02-05"
+  },
+  {
+    "customer_id": "C-609",
+    "name": "Kiran Abbasi",
+    "email": "kiran.abbasi53@mail.example.pk",
+    "phone": "0323-5551242",
+    "address": {
+      "line": "House 14, Street 15, Gulshan-e-Iqbal Block 13",
+      "city": "Karachi"
+    },
+    "member_since": "2025-04-04"
+  },
+  {
+    "customer_id": "C-615",
+    "name": "Bilal Baig",
+    "email": "bilal.baig21@mail.example.pk",
+    "phone": "0307-5551173",
+    "address": {
+      "line": "House 5, Street 13, DHA Phase 5",
+      "city": "Lahore"
+    },
+    "member_since": "2026-05-09"
+  },
+  {
+    "customer_id": "C-632",
+    "name": "Iqra Javed",
+    "email": "iqra.javed37@mail.example.pk",
+    "phone": "0343-5556540",
+    "address": {
+      "line": "House 149, Street 23, I-8/4",
+      "city": "Islamabad"
+    },
+    "member_since": "2025-06-16"
+  },
+  {
+    "customer_id": "C-643",
+    "name": "Zainab Siddiqui",
+    "email": "zainab.siddiqui7@mail.example.pk",
+    "phone": "0344-5555621",
+    "address": {
+      "line": "House 181, Street 11, North Nazimabad Block H",
+      "city": "Karachi"
+    },
+    "member_since": "2023-04-16"
+  },
+  {
+    "customer_id": "C-649",
+    "name": "Hafsa Qureshi",
+    "email": "hafsa.qureshi78@mail.example.pk",
+    "phone": "0344-5555569",
+    "address": {
+      "line": "House 68, Street 24, Satellite Town",
+      "city": "Rawalpindi"
+    },
+    "member_since": "2024-10-05"
+  },
+  {
+    "customer_id": "C-650",
+    "name": "Sadia Malik",
+    "email": "sadia.malik54@mail.example.pk",
+    "phone": "0318-5552901",
+    "address": {
+      "line": "House 165, Street 18, Clifton Block 5",
+      "city": "Karachi"
+    },
+    "member_since": "2026-08-17"
+  },
+  {
+    "customer_id": "C-660",
+    "name": "Zainab Sheikh",
+    "email": "zainab.sheikh87@mail.example.pk",
+    "phone": "0312-5552917",
+    "address": {
+      "line": "House 206, Street 29, Gulberg 3",
+      "city": "Lahore"
+    },
+    "member_since": "2025-04-28"
+  },
+  {
+    "customer_id": "C-674",
+    "name": "Junaid Sheikh",
+    "email": "junaid.sheikh85@mail.example.pk",
+    "phone": "0317-5555526",
+    "address": {
+      "line": "House 31, Street 2, Satellite Town",
+      "city": "Rawalpindi"
+    },
+    "member_since": "2023-09-11"
+  },
+  {
+    "customer_id": "C-681",
+    "name": "Asad Khan",
+    "email": "asad.khan6@mail.example.pk",
+    "phone": "0308-5556145",
+    "address": {
+      "line": "House 128, Street 34, DHA Phase 5",
+      "city": "Lahore"
+    },
+    "member_since": "2026-05-11"
+  },
+  {
+    "customer_id": "C-689",
+    "name": "Talha Siddiqui",
+    "email": "talha.siddiqui33@mail.example.pk",
+    "phone": "0310-5556133",
+    "address": {
+      "line": "House 164, Street 15, I-8/4",
+      "city": "Islamabad"
+    },
+    "member_since": "2023-10-02"
+  },
+  {
+    "customer_id": "C-694",
+    "name": "Omar Chaudhry",
+    "email": "omar.chaudhry23@mail.example.pk",
+    "phone": "0330-5558451",
+    "address": {
+      "line": "House 165, Street 10, Gulshan-e-Iqbal Block 13",
+      "city": "Karachi"
+    },
+    "member_since": "2025-04-19"
+  },
+  {
+    "customer_id": "C-705",
+    "name": "Areeba Akhtar",
+    "email": "areeba.akhtar64@mail.example.pk",
+    "phone": "0317-5559576",
+    "address": {
+      "line": "House 237, Street 8, F-7/1",
+      "city": "Islamabad"
+    },
+    "member_since": "2026-02-19"
+  },
+  {
+    "customer_id": "C-717",
+    "name": "Usman Javed",
+    "email": "usman.javed19@mail.example.pk",
+    "phone": "0325-5556619",
+    "address": {
+      "line": "House 96, Street 22, Bahria Town Phase 4",
+      "city": "Rawalpindi"
+    },
+    "member_since": "2025-11-08"
+  },
+  {
+    "customer_id": "C-735",
+    "name": "Sadia Akhtar",
+    "email": "sadia.akhtar29@mail.example.pk",
+    "phone": "0349-5554271",
+    "address": {
+      "line": "House 1, Street 7, I-8/4",
+      "city": "Islamabad"
+    },
+    "member_since": "2023-06-15"
+  },
+  {
+    "customer_id": "C-759",
+    "name": "Hafsa Aslam",
+    "email": "hafsa.aslam41@mail.example.pk",
+    "phone": "0340-5557748",
+    "address": {
+      "line": "House 166, Street 14, Gulberg 3",
+      "city": "Lahore"
+    },
+    "member_since": "2025-05-03"
+  },
+  {
+    "customer_id": "C-763",
+    "name": "Laiba Sheikh",
+    "email": "laiba.sheikh23@mail.example.pk",
+    "phone": "0307-5554268",
+    "address": {
+      "line": "House 25, Street 34, G-9/2",
+      "city": "Islamabad"
+    },
+    "member_since": "2025-11-18"
+  },
+  {
+    "customer_id": "C-774",
+    "name": "Asad Abbasi",
+    "email": "asad.abbasi82@mail.example.pk",
+    "phone": "0335-5555972",
+    "address": {
+      "line": "House 193, Street 9, G-11/1",
+      "city": "Islamabad"
+    },
+    "member_since": "2026-06-13"
+  },
+  {
+    "customer_id": "C-781",
+    "name": "Laiba Aslam",
+    "email": "laiba.aslam59@mail.example.pk",
+    "phone": "0348-5554912",
+    "address": {
+      "line": "House 218, Street 11, Model Town",
+      "city": "Lahore"
+    },
+    "member_since": "2024-04-12"
+  },
+  {
+    "customer_id": "C-787",
+    "name": "Hira Chaudhry",
+    "email": "hira.chaudhry27@mail.example.pk",
+    "phone": "0306-5555036",
+    "address": {
+      "line": "House 12, Street 34, Model Town",
+      "city": "Lahore"
+    },
+    "member_since": "2024-09-11"
+  },
+  {
+    "customer_id": "C-825",
+    "name": "Zain Akhtar",
+    "email": "zain.akhtar36@mail.example.pk",
+    "phone": "0314-5555401",
+    "address": {
+      "line": "House 247, Street 33, F-10/3",
+      "city": "Islamabad"
+    },
+    "member_since": "2025-11-19"
+  },
+  {
+    "customer_id": "C-829",
+    "name": "Ahmed Abbasi",
+    "email": "ahmed.abbasi5@mail.example.pk",
+    "phone": "0334-5558841",
+    "address": {
+      "line": "House 249, Street 34, Gulshan-e-Iqbal Block 13",
+      "city": "Karachi"
+    },
+    "member_since": "2024-01-09"
+  },
+  {
+    "customer_id": "C-833",
+    "name": "Ayesha Mirza",
+    "email": "ayesha.mirza98@mail.example.pk",
+    "phone": "0347-5552425",
+    "address": {
+      "line": "House 9, Street 35, Westridge 1",
+      "city": "Rawalpindi"
+    },
+    "member_since": "2025-09-10"
+  },
+  {
+    "customer_id": "C-843",
+    "name": "Iqra Siddiqui",
+    "email": "iqra.siddiqui45@mail.example.pk",
+    "phone": "0304-5556287",
+    "address": {
+      "line": "House 250, Street 35, PECHS Block 2",
+      "city": "Karachi"
+    },
+    "member_since": "2026-05-21"
+  },
+  {
+    "customer_id": "C-856",
+    "name": "Zain Farooq",
+    "email": "zain.farooq61@mail.example.pk",
+    "phone": "0335-5553838",
+    "address": {
+      "line": "House 147, Street 11, Gulshan-e-Iqbal Block 13",
+      "city": "Karachi"
+    },
+    "member_since": "2023-09-16"
+  },
+  {
+    "customer_id": "C-858",
+    "name": "Maryam Malik",
+    "email": "maryam.malik67@mail.example.pk",
+    "phone": "0340-5555295",
+    "address": {
+      "line": "House 218, Street 11, E-11/2",
+      "city": "Islamabad"
+    },
+    "member_since": "2026-01-01"
+  },
+  {
+    "customer_id": "C-874",
+    "name": "Asad Akhtar",
+    "email": "asad.akhtar66@mail.example.pk",
+    "phone": "0344-5552792",
+    "address": {
+      "line": "House 68, Street 18, DHA Phase 5",
+      "city": "Lahore"
+    },
+    "member_since": "2024-09-25"
+  },
+  {
+    "customer_id": "C-885",
+    "name": "Fahad Farooq",
+    "email": "fahad.farooq14@mail.example.pk",
+    "phone": "0303-5552620",
+    "address": {
+      "line": "House 13, Street 3, Model Town",
+      "city": "Lahore"
+    },
+    "member_since": "2025-01-04"
+  },
+  {
+    "customer_id": "C-886",
+    "name": "Areeba Mirza",
+    "email": "areeba.mirza46@mail.example.pk",
+    "phone": "0307-5557474",
+    "address": {
+      "line": "House 105, Street 12, Chaklala 3",
+      "city": "Rawalpindi"
+    },
+    "member_since": "2024-10-17"
+  },
+  {
+    "customer_id": "C-887",
+    "name": "Hafsa Mirza",
+    "email": "hafsa.mirza32@mail.example.pk",
+    "phone": "0341-5558633",
+    "address": {
+      "line": "House 110, Street 39, North Nazimabad Block H",
+      "city": "Karachi"
+    },
+    "member_since": "2024-06-10"
+  },
+  {
+    "customer_id": "C-926",
+    "name": "Maryam Aslam",
+    "email": "maryam.aslam77@mail.example.pk",
+    "phone": "0329-5551136",
+    "address": {
+      "line": "House 99, Street 34, North Nazimabad Block H",
+      "city": "Karachi"
+    },
+    "member_since": "2024-07-15"
+  },
+  {
+    "customer_id": "C-927",
+    "name": "Zainab Qureshi",
+    "email": "zainab.qureshi84@mail.example.pk",
+    "phone": "0332-5558671",
+    "address": {
+      "line": "House 138, Street 22, Westridge 1",
+      "city": "Rawalpindi"
+    },
+    "member_since": "2026-08-05"
+  },
+  {
+    "customer_id": "C-929",
+    "name": "Bilal Chaudhry",
+    "email": "bilal.chaudhry42@mail.example.pk",
+    "phone": "0334-5559710",
+    "address": {
+      "line": "House 2, Street 28, Chaklala 3",
+      "city": "Rawalpindi"
+    },
+    "member_since": "2024-09-18"
+  },
+  {
+    "customer_id": "C-940",
+    "name": "Imran Siddiqui",
+    "email": "imran.siddiqui46@mail.example.pk",
+    "phone": "0342-5559139",
+    "address": {
+      "line": "House 29, Street 34, Gulshan-e-Iqbal Block 13",
+      "city": "Karachi"
+    },
+    "member_since": "2026-03-10"
+  },
+  {
+    "customer_id": "C-941",
+    "name": "Saad Baig",
+    "email": "saad.baig43@mail.example.pk",
+    "phone": "0316-5553939",
+    "address": {
+      "line": "House 222, Street 20, Wapda Town",
+      "city": "Lahore"
+    },
+    "member_since": "2025-02-27"
+  },
+  {
+    "customer_id": "C-979",
+    "name": "Rabia Khan",
+    "email": "rabia.khan81@mail.example.pk",
+    "phone": "0317-5558981",
+    "address": {
+      "line": "House 238, Street 20, PECHS Block 2",
+      "city": "Karachi"
+    },
+    "member_since": "2023-12-12"
+  },
+  {
+    "customer_id": "C-989",
+    "name": "Sana Abbasi",
+    "email": "sana.abbasi64@mail.example.pk",
+    "phone": "0329-5558190",
+    "address": {
+      "line": "House 94, Street 11, Chaklala 3",
+      "city": "Rawalpindi"
+    },
+    "member_since": "2024-12-08"
+  },
+  {
+    "customer_id": "C-992",
+    "name": "Asad Siddiqui",
+    "email": "asad.siddiqui14@mail.example.pk",
+    "phone": "0324-5555204",
+    "address": {
+      "line": "House 87, Street 25, Gulberg 3",
+      "city": "Lahore"
+    },
+    "member_since": "2024-02-21"
+  },
+  {
+    "customer_id": "C-998",
+    "name": "Fatima Farooq",
+    "email": "fatima.farooq37@mail.example.pk",
+    "phone": "0313-5555063",
+    "address": {
+      "line": "House 100, Street 17, I-8/4",
+      "city": "Islamabad"
+    },
+    "member_since": "2023-09-15"
+  }
+]

@@ -1,0 +1,1195 @@
+[
+  {
+    "name": "Clickr Silent Mouse",
+    "brand": "Clickr",
+    "category": "laptop-accessories",
+    "price": 1599,
+    "tags": [
+      "mouse",
+      "wireless"
+    ],
+    "specs": {
+      "wireless": true,
+      "silent": true
+    },
+    "description": "Wireless mouse with silent clicks.",
+    "product_id": "P-1069",
+    "stock": 24,
+    "rating": 4.8,
+    "warranty_months": 6,
+    "final_sale": false
+  },
+  {
+    "name": "Voltix Titan 30000",
+    "brand": "Voltix",
+    "category": "power-banks",
+    "price": 8099,
+    "tags": [
+      "power bank",
+      "portable charger",
+      "laptop",
+      "usb-c"
+    ],
+    "specs": {
+      "capacity_mah": 30000,
+      "output_w": 65,
+      "ports": 3
+    },
+    "description": "Power bank that can charge USB-C laptops.",
+    "product_id": "P-1272",
+    "stock": 9,
+    "rating": 4.4,
+    "warranty_months": 6,
+    "final_sale": false
+  },
+  {
+    "name": "Nimbus Air 14",
+    "brand": "Nimbus",
+    "category": "laptops",
+    "price": 150099,
+    "tags": [
+      "laptop",
+      "ultrabook",
+      "light"
+    ],
+    "specs": {
+      "ram_gb": 16,
+      "storage_gb": 512,
+      "screen_in": 14,
+      "weight_kg": 1.3,
+      "cpu": "Core i5",
+      "usb_c_charging": true
+    },
+    "description": "Thin and light laptop.",
+    "warranty_months": 12,
+    "product_id": "P-1371",
+    "stock": 6,
+    "rating": 3.9,
+    "final_sale": false
+  },
+  {
+    "name": "Voltix Micro-USB Cable 1m",
+    "brand": "Voltix",
+    "category": "phone-accessories",
+    "price": 499,
+    "tags": [
+      "cable",
+      "micro-usb"
+    ],
+    "specs": {
+      "connector": "micro-USB",
+      "length_m": 1
+    },
+    "description": "USB-A to micro-USB cable.",
+    "product_id": "P-1685",
+    "stock": 9,
+    "rating": 4.0,
+    "warranty_months": 6,
+    "final_sale": false
+  },
+  {
+    "name": "Kitchenova Toaster Duo",
+    "brand": "Kitchenova",
+    "category": "kitchen",
+    "price": 4199,
+    "tags": [
+      "toaster"
+    ],
+    "specs": {
+      "slots": 2
+    },
+    "description": "Two-slice toaster.",
+    "final_sale": true,
+    "final_sale_reason": "clearance item",
+    "product_id": "P-1826",
+    "stock": 38,
+    "rating": 4.9,
+    "warranty_months": 6
+  },
+  {
+    "name": "Pulse Fit 2",
+    "brand": "Pulse",
+    "category": "smartwatches",
+    "price": 6399,
+    "tags": [
+      "watch",
+      "fitness",
+      "tracker"
+    ],
+    "specs": {
+      "gps": false,
+      "battery_days": 10,
+      "water_resistance": "5ATM"
+    },
+    "description": "Fitness band with heart-rate tracking.",
+    "product_id": "P-1828",
+    "stock": 52,
+    "rating": 4.6,
+    "warranty_months": 6,
+    "final_sale": false
+  },
+  {
+    "name": "Trailpak Commuter 15.6 Backpack",
+    "brand": "Trailpak",
+    "category": "laptop-accessories",
+    "price": 5399,
+    "tags": [
+      "bag",
+      "backpack",
+      "laptop bag"
+    ],
+    "specs": {
+      "fits_screen_in": 15.6,
+      "water_resistant": true
+    },
+    "description": "Water-resistant backpack with a padded laptop sleeve.",
+    "product_id": "P-2110",
+    "stock": 14,
+    "rating": 4.5,
+    "warranty_months": 6,
+    "final_sale": false
+  },
+  {
+    "name": "Zentra Max 12",
+    "brand": "Zentra",
+    "category": "smartphones",
+    "price": 73399,
+    "tags": [
+      "phone",
+      "android",
+      "flagship"
+    ],
+    "specs": {
+      "ram_gb": 12,
+      "storage_gb": 512,
+      "battery_mah": 5500,
+      "screen_in": 6.8,
+      "connector": "USB-C"
+    },
+    "description": "Zentra's flagship phone.",
+    "warranty_months": 12,
+    "product_id": "P-2113",
+    "stock": 50,
+    "rating": 3.6,
+    "final_sale": false
+  },
+  {
+    "name": "Nova X1",
+    "brand": "Nova",
+    "category": "smartphones",
+    "price": 33899,
+    "tags": [
+      "phone",
+      "android"
+    ],
+    "specs": {
+      "ram_gb": 6,
+      "storage_gb": 128,
+      "battery_mah": 4500,
+      "screen_in": 6.4,
+      "connector": "USB-C"
+    },
+    "description": "Compact phone with a bright screen.",
+    "warranty_months": 12,
+    "product_id": "P-2357",
+    "stock": 37,
+    "rating": 4.4,
+    "final_sale": false
+  },
+  {
+    "name": "Kitchenova Kettle 1.7",
+    "brand": "Kitchenova",
+    "category": "kitchen",
+    "price": 3499,
+    "tags": [
+      "kettle",
+      "electric kettle"
+    ],
+    "specs": {
+      "litres": 1.7,
+      "auto_shutoff": true
+    },
+    "description": "Electric kettle with automatic shut-off.",
+    "warranty_months": 12,
+    "product_id": "P-2881",
+    "stock": 20,
+    "rating": 4.5,
+    "final_sale": false
+  },
+  {
+    "name": "Pulse Classic",
+    "brand": "Pulse",
+    "category": "smartwatches",
+    "price": 10599,
+    "tags": [
+      "watch",
+      "classic"
+    ],
+    "specs": {
+      "gps": false,
+      "battery_days": 14,
+      "water_resistance": "3ATM"
+    },
+    "description": "Smartwatch with a classic look and two-week battery.",
+    "product_id": "P-2888",
+    "stock": 45,
+    "rating": 4.6,
+    "warranty_months": 6,
+    "final_sale": false
+  },
+  {
+    "name": "Zentra Z5 Pro Rugged Case",
+    "brand": "Zentra",
+    "category": "phone-accessories",
+    "price": 2099,
+    "tags": [
+      "case",
+      "cover",
+      "rugged"
+    ],
+    "specs": {
+      "compatible_with": [
+        "Zentra Z5 Pro"
+      ]
+    },
+    "description": "Drop-tested case for the Zentra Z5 Pro.",
+    "product_id": "P-3038",
+    "stock": 27,
+    "rating": 3.7,
+    "warranty_months": 6,
+    "final_sale": false
+  },
+  {
+    "name": "Sonik BeatBuds ANC",
+    "brand": "Sonik",
+    "category": "earbuds",
+    "price": 6799,
+    "tags": [
+      "wireless",
+      "bluetooth",
+      "noise cancelling",
+      "anc"
+    ],
+    "specs": {
+      "battery_hours": 28,
+      "noise_cancelling": true,
+      "water_resistance": "IPX4"
+    },
+    "description": "Noise cancelling earbuds with deep bass.",
+    "final_sale": true,
+    "final_sale_reason": "hygiene: in-ear products",
+    "product_id": "P-3203",
+    "stock": 12,
+    "rating": 3.6,
+    "warranty_months": 6
+  },
+  {
+    "name": "Sonik AirDots 2",
+    "brand": "Sonik",
+    "category": "earbuds",
+    "price": 2499,
+    "tags": [
+      "wireless",
+      "bluetooth",
+      "budget"
+    ],
+    "specs": {
+      "battery_hours": 18,
+      "noise_cancelling": false,
+      "water_resistance": "none"
+    },
+    "description": "Entry-level true wireless earbuds.",
+    "final_sale": true,
+    "final_sale_reason": "hygiene: in-ear products",
+    "product_id": "P-3213",
+    "stock": 25,
+    "rating": 4.6,
+    "warranty_months": 6
+  },
+  {
+    "name": "Clickr Pro Keyboard",
+    "brand": "Clickr",
+    "category": "laptop-accessories",
+    "price": 6599,
+    "tags": [
+      "keyboard",
+      "wireless",
+      "backlit"
+    ],
+    "specs": {
+      "wireless": true,
+      "backlit": true
+    },
+    "description": "Wireless backlit keyboard.",
+    "product_id": "P-3463",
+    "stock": 0,
+    "rating": 3.7,
+    "warranty_months": 6,
+    "final_sale": false
+  },
+  {
+    "name": "Zentra Buds Z",
+    "brand": "Zentra",
+    "category": "earbuds",
+    "price": 5799,
+    "tags": [
+      "wireless",
+      "bluetooth",
+      "noise cancelling",
+      "anc"
+    ],
+    "specs": {
+      "battery_hours": 26,
+      "noise_cancelling": true,
+      "water_resistance": "IPX4"
+    },
+    "description": "Zentra's noise cancelling earbuds.",
+    "final_sale": true,
+    "final_sale_reason": "hygiene: in-ear products",
+    "product_id": "P-3636",
+    "stock": 35,
+    "rating": 3.6,
+    "warranty_months": 6
+  },
+  {
+    "name": "Zentra Z5 Pro",
+    "brand": "Zentra",
+    "category": "smartphones",
+    "price": 50299,
+    "tags": [
+      "phone",
+      "android"
+    ],
+    "specs": {
+      "ram_gb": 8,
+      "storage_gb": 256,
+      "battery_mah": 5000,
+      "screen_in": 6.7,
+      "connector": "USB-C"
+    },
+    "description": "The Z5 with more memory and a better camera.",
+    "warranty_months": 12,
+    "product_id": "P-3740",
+    "stock": 7,
+    "rating": 4.6,
+    "final_sale": false
+  },
+  {
+    "name": "Zentra Z5",
+    "brand": "Zentra",
+    "category": "smartphones",
+    "price": 41499,
+    "tags": [
+      "phone",
+      "android"
+    ],
+    "specs": {
+      "ram_gb": 6,
+      "storage_gb": 128,
+      "battery_mah": 5000,
+      "screen_in": 6.5,
+      "connector": "USB-C"
+    },
+    "description": "Mid-range phone with a big battery.",
+    "warranty_months": 12,
+    "product_id": "P-3789",
+    "stock": 10,
+    "rating": 4.5,
+    "final_sale": false
+  },
+  {
+    "name": "Breezo Steam Iron 2000",
+    "brand": "Breezo",
+    "category": "home",
+    "price": 5299,
+    "tags": [
+      "iron",
+      "steam"
+    ],
+    "specs": {
+      "watts": 2000
+    },
+    "description": "Steam iron with a non-stick soleplate.",
+    "warranty_months": 12,
+    "product_id": "P-4250",
+    "stock": 8,
+    "rating": 4.7,
+    "final_sale": false
+  },
+  {
+    "name": "Pulse Run GPS",
+    "brand": "Pulse",
+    "category": "smartwatches",
+    "price": 13999,
+    "tags": [
+      "watch",
+      "running",
+      "gps"
+    ],
+    "specs": {
+      "gps": true,
+      "battery_days": 7,
+      "water_resistance": "5ATM"
+    },
+    "description": "Running watch with built-in GPS.",
+    "product_id": "P-4320",
+    "stock": 30,
+    "rating": 4.4,
+    "warranty_months": 6,
+    "final_sale": false
+  },
+  {
+    "name": "Voltix 10W Micro-USB Charger",
+    "brand": "Voltix",
+    "category": "phone-accessories",
+    "price": 1199,
+    "tags": [
+      "charger",
+      "micro-usb"
+    ],
+    "specs": {
+      "wattage": 10,
+      "connector": "micro-USB",
+      "compatible_with": [
+        "Zentra Lite A2"
+      ]
+    },
+    "description": "Wall charger with a micro-USB cable.",
+    "product_id": "P-4359",
+    "stock": 18,
+    "rating": 4.6,
+    "warranty_months": 6,
+    "final_sale": false
+  },
+  {
+    "name": "Voltix USB-C Cable 1m",
+    "brand": "Voltix",
+    "category": "phone-accessories",
+    "price": 699,
+    "tags": [
+      "cable",
+      "usb-c"
+    ],
+    "specs": {
+      "connector": "USB-C",
+      "length_m": 1
+    },
+    "description": "Braided USB-C to USB-C cable.",
+    "product_id": "P-4770",
+    "stock": 32,
+    "rating": 4.6,
+    "warranty_months": 6,
+    "final_sale": false
+  },
+  {
+    "name": "Nimbus Pro 16",
+    "brand": "Nimbus",
+    "category": "laptops",
+    "price": 252999,
+    "tags": [
+      "laptop",
+      "gaming",
+      "creator"
+    ],
+    "specs": {
+      "ram_gb": 32,
+      "storage_gb": 1024,
+      "screen_in": 16,
+      "weight_kg": 2.1,
+      "cpu": "Core i7",
+      "usb_c_charging": true
+    },
+    "description": "Powerful laptop with a dedicated graphics card.",
+    "warranty_months": 12,
+    "product_id": "P-4985",
+    "stock": 23,
+    "rating": 3.9,
+    "final_sale": false
+  },
+  {
+    "name": "Breezo Rechargeable Fan 14",
+    "brand": "Breezo",
+    "category": "home",
+    "price": 14099,
+    "tags": [
+      "fan",
+      "rechargeable",
+      "load shedding",
+      "battery"
+    ],
+    "specs": {
+      "sweep_in": 14,
+      "remote": true,
+      "rechargeable": true,
+      "battery_hours": 6
+    },
+    "description": "Fan with a built-in battery that runs during power cuts.",
+    "product_id": "P-5163",
+    "stock": 15,
+    "rating": 4.0,
+    "warranty_months": 6,
+    "final_sale": false
+  },
+  {
+    "name": "Sonik Boom Mini",
+    "brand": "Sonik",
+    "category": "speakers",
+    "price": 3499,
+    "tags": [
+      "speaker",
+      "bluetooth",
+      "portable"
+    ],
+    "specs": {
+      "watts": 10,
+      "battery_hours": 10,
+      "water_resistance": "IPX5"
+    },
+    "description": "Pocket Bluetooth speaker.",
+    "product_id": "P-5411",
+    "stock": 5,
+    "rating": 4.4,
+    "warranty_months": 6,
+    "final_sale": false
+  },
+  {
+    "name": "Sonik Quiet 500 ANC",
+    "brand": "Sonik",
+    "category": "headphones",
+    "price": 12399,
+    "tags": [
+      "wireless",
+      "bluetooth",
+      "noise cancelling",
+      "anc",
+      "over-ear"
+    ],
+    "specs": {
+      "battery_hours": 35,
+      "noise_cancelling": true,
+      "microphone": true
+    },
+    "description": "Over-ear noise cancelling headphones for travel.",
+    "product_id": "P-5500",
+    "stock": 7,
+    "rating": 4.3,
+    "warranty_months": 6,
+    "final_sale": false
+  },
+  {
+    "name": "Auralite Kids Safe",
+    "brand": "Auralite",
+    "category": "headphones",
+    "price": 3799,
+    "tags": [
+      "kids",
+      "wired",
+      "volume limit",
+      "on-ear"
+    ],
+    "specs": {
+      "battery_hours": 0,
+      "noise_cancelling": false,
+      "volume_limit_db": 85
+    },
+    "description": "On-ear headphones for children, volume limited to 85 dB.",
+    "product_id": "P-5984",
+    "stock": 44,
+    "rating": 4.2,
+    "warranty_months": 6,
+    "final_sale": false
+  },
+  {
+    "name": "Kitchenova Blend 600",
+    "brand": "Kitchenova",
+    "category": "kitchen",
+    "price": 6699,
+    "tags": [
+      "blender",
+      "smoothie"
+    ],
+    "specs": {
+      "watts": 600,
+      "jar_litres": 1.5
+    },
+    "description": "Everyday blender.",
+    "warranty_months": 12,
+    "product_id": "P-6038",
+    "stock": 49,
+    "rating": 3.8,
+    "final_sale": false
+  },
+  {
+    "name": "Voltix PowerCell 10000",
+    "brand": "Voltix",
+    "category": "power-banks",
+    "price": 3099,
+    "tags": [
+      "power bank",
+      "portable charger"
+    ],
+    "specs": {
+      "capacity_mah": 10000,
+      "output_w": 18,
+      "ports": 2
+    },
+    "description": "Pocket power bank.",
+    "product_id": "P-6180",
+    "stock": 31,
+    "rating": 4.2,
+    "warranty_months": 6,
+    "final_sale": false
+  },
+  {
+    "name": "Auralite Buds Lite",
+    "brand": "Auralite",
+    "category": "earbuds",
+    "price": 3199,
+    "tags": [
+      "wireless",
+      "bluetooth",
+      "budget"
+    ],
+    "specs": {
+      "battery_hours": 20,
+      "noise_cancelling": false,
+      "water_resistance": "IPX4"
+    },
+    "description": "Light everyday wireless earbuds.",
+    "final_sale": true,
+    "final_sale_reason": "hygiene: in-ear products",
+    "product_id": "P-6542",
+    "stock": 0,
+    "rating": 4.8,
+    "warranty_months": 6
+  },
+  {
+    "name": "Kitchenova AirFry 4.5",
+    "brand": "Kitchenova",
+    "category": "kitchen",
+    "price": 16799,
+    "tags": [
+      "air fryer"
+    ],
+    "specs": {
+      "litres": 4.5,
+      "watts": 1500,
+      "digital": false
+    },
+    "description": "Air fryer for two to three people.",
+    "warranty_months": 12,
+    "product_id": "P-6967",
+    "stock": 0,
+    "rating": 4.9,
+    "final_sale": false
+  },
+  {
+    "name": "Breezo Pedestal Fan 18",
+    "brand": "Breezo",
+    "category": "home",
+    "price": 9599,
+    "tags": [
+      "fan",
+      "pedestal",
+      "remote"
+    ],
+    "specs": {
+      "sweep_in": 18,
+      "remote": true,
+      "rechargeable": false,
+      "battery_hours": 0
+    },
+    "description": "Pedestal fan with a remote control.",
+    "product_id": "P-7389",
+    "stock": 37,
+    "rating": 4.2,
+    "warranty_months": 6,
+    "final_sale": false
+  },
+  {
+    "name": "Zentra Z5 Clear Case",
+    "brand": "Zentra",
+    "category": "phone-accessories",
+    "price": 1299,
+    "tags": [
+      "case",
+      "cover"
+    ],
+    "specs": {
+      "compatible_with": [
+        "Zentra Z5"
+      ]
+    },
+    "description": "Clear protective case for the Zentra Z5.",
+    "final_sale": true,
+    "final_sale_reason": "clearance item",
+    "product_id": "P-7695",
+    "stock": 55,
+    "rating": 4.6,
+    "warranty_months": 6
+  },
+  {
+    "name": "Kitchenova AirFry 6.5 Digital",
+    "brand": "Kitchenova",
+    "category": "kitchen",
+    "price": 22399,
+    "tags": [
+      "air fryer",
+      "digital"
+    ],
+    "specs": {
+      "litres": 6.5,
+      "watts": 1800,
+      "digital": true
+    },
+    "description": "Family-size air fryer with a touch screen.",
+    "warranty_months": 12,
+    "product_id": "P-7706",
+    "stock": 34,
+    "rating": 3.9,
+    "final_sale": false
+  },
+  {
+    "name": "Trailpak Slim 14 Sleeve",
+    "brand": "Trailpak",
+    "category": "laptop-accessories",
+    "price": 2099,
+    "tags": [
+      "sleeve",
+      "laptop bag"
+    ],
+    "specs": {
+      "fits_screen_in": 14,
+      "water_resistant": false
+    },
+    "description": "Felt sleeve for 14-inch laptops.",
+    "product_id": "P-7854",
+    "stock": 59,
+    "rating": 4.0,
+    "warranty_months": 6,
+    "final_sale": false
+  },
+  {
+    "name": "Nimbus Study 14",
+    "brand": "Nimbus",
+    "category": "laptops",
+    "price": 80099,
+    "tags": [
+      "laptop",
+      "student",
+      "budget"
+    ],
+    "specs": {
+      "ram_gb": 8,
+      "storage_gb": 256,
+      "screen_in": 14,
+      "weight_kg": 1.5,
+      "cpu": "Core i3",
+      "usb_c_charging": true
+    },
+    "description": "Affordable laptop for students.",
+    "warranty_months": 12,
+    "product_id": "P-7985",
+    "stock": 39,
+    "rating": 4.1,
+    "final_sale": false
+  },
+  {
+    "name": "Voltix Slim 5000",
+    "brand": "Voltix",
+    "category": "power-banks",
+    "price": 2099,
+    "tags": [
+      "power bank",
+      "portable charger",
+      "slim"
+    ],
+    "specs": {
+      "capacity_mah": 5000,
+      "output_w": 10,
+      "ports": 1
+    },
+    "description": "Card-thin emergency power bank.",
+    "product_id": "P-8165",
+    "stock": 26,
+    "rating": 3.9,
+    "warranty_months": 6,
+    "final_sale": false
+  },
+  {
+    "name": "Voltix 65W GaN Charger",
+    "brand": "Voltix",
+    "category": "phone-accessories",
+    "price": 6099,
+    "tags": [
+      "charger",
+      "fast charging",
+      "usb-c",
+      "laptop"
+    ],
+    "specs": {
+      "wattage": 65,
+      "connector": "USB-C",
+      "ports": 3,
+      "compatible_with": [
+        "Zentra Z5",
+        "Zentra Z5 Pro",
+        "Zentra Max 12",
+        "Nova X1",
+        "USB-C laptops"
+      ]
+    },
+    "description": "Three-port charger for a phone and a USB-C laptop.",
+    "product_id": "P-8351",
+    "stock": 54,
+    "rating": 4.0,
+    "warranty_months": 6,
+    "final_sale": false
+  },
+  {
+    "name": "Sonik Pro Gaming H7",
+    "brand": "Sonik",
+    "category": "headphones",
+    "price": 8799,
+    "tags": [
+      "gaming",
+      "wired",
+      "usb",
+      "over-ear"
+    ],
+    "specs": {
+      "battery_hours": 0,
+      "noise_cancelling": false,
+      "microphone": true
+    },
+    "description": "Wired gaming headset with a detachable microphone.",
+    "product_id": "P-8513",
+    "stock": 13,
+    "rating": 4.8,
+    "warranty_months": 6,
+    "final_sale": false
+  },
+  {
+    "name": "Voltix PowerCell 20000",
+    "brand": "Voltix",
+    "category": "power-banks",
+    "price": 4999,
+    "tags": [
+      "power bank",
+      "portable charger",
+      "fast charging"
+    ],
+    "specs": {
+      "capacity_mah": 20000,
+      "output_w": 22.5,
+      "ports": 3
+    },
+    "description": "High-capacity power bank with fast charging.",
+    "product_id": "P-8536",
+    "stock": 18,
+    "rating": 4.0,
+    "warranty_months": 6,
+    "final_sale": false
+  },
+  {
+    "name": "Sonik Boom 20",
+    "brand": "Sonik",
+    "category": "speakers",
+    "price": 7299,
+    "tags": [
+      "speaker",
+      "bluetooth",
+      "portable",
+      "waterproof"
+    ],
+    "specs": {
+      "watts": 20,
+      "battery_hours": 15,
+      "water_resistance": "IPX7"
+    },
+    "description": "Waterproof Bluetooth speaker.",
+    "product_id": "P-8539",
+    "stock": 0,
+    "rating": 4.8,
+    "warranty_months": 6,
+    "final_sale": false
+  },
+  {
+    "name": "Trailpak Voyager 17 Backpack",
+    "brand": "Trailpak",
+    "category": "laptop-accessories",
+    "price": 6999,
+    "tags": [
+      "bag",
+      "backpack",
+      "laptop bag"
+    ],
+    "specs": {
+      "fits_screen_in": 17,
+      "water_resistant": true
+    },
+    "description": "Large travel backpack for laptops up to 17 inches.",
+    "product_id": "P-8640",
+    "stock": 30,
+    "rating": 4.8,
+    "warranty_months": 6,
+    "final_sale": false
+  },
+  {
+    "name": "Sonik Bass 300",
+    "brand": "Sonik",
+    "category": "headphones",
+    "price": 4799,
+    "tags": [
+      "wireless",
+      "bluetooth",
+      "over-ear",
+      "bass"
+    ],
+    "specs": {
+      "battery_hours": 35,
+      "noise_cancelling": false,
+      "microphone": true
+    },
+    "description": "Wireless over-ear headphones with heavy bass.",
+    "product_id": "P-8756",
+    "stock": 0,
+    "rating": 4.8,
+    "warranty_months": 6,
+    "final_sale": false
+  },
+  {
+    "name": "Breezo Table Fan 12",
+    "brand": "Breezo",
+    "category": "home",
+    "price": 4599,
+    "tags": [
+      "fan",
+      "table"
+    ],
+    "specs": {
+      "sweep_in": 12,
+      "remote": false,
+      "rechargeable": false,
+      "battery_hours": 0
+    },
+    "description": "Compact table fan.",
+    "product_id": "P-9011",
+    "stock": 33,
+    "rating": 3.9,
+    "warranty_months": 6,
+    "final_sale": false
+  },
+  {
+    "name": "Kitchenova Blend 1000 Pro",
+    "brand": "Kitchenova",
+    "category": "kitchen",
+    "price": 10899,
+    "tags": [
+      "blender",
+      "smoothie",
+      "ice crushing"
+    ],
+    "specs": {
+      "watts": 1000,
+      "jar_litres": 2.0
+    },
+    "description": "Powerful blender that crushes ice.",
+    "warranty_months": 24,
+    "product_id": "P-9089",
+    "stock": 11,
+    "rating": 3.9,
+    "final_sale": false
+  },
+  {
+    "name": "Auralite Sport Buds",
+    "brand": "Auralite",
+    "category": "earbuds",
+    "price": 4899,
+    "tags": [
+      "wireless",
+      "bluetooth",
+      "sport",
+      "gym",
+      "sweatproof"
+    ],
+    "specs": {
+      "battery_hours": 24,
+      "noise_cancelling": false,
+      "water_resistance": "IPX7"
+    },
+    "description": "Secure-fit earbuds for running and the gym.",
+    "final_sale": true,
+    "final_sale_reason": "hygiene: in-ear products",
+    "product_id": "P-9095",
+    "stock": 21,
+    "rating": 3.9,
+    "warranty_months": 6
+  },
+  {
+    "name": "Voltix 25W USB-C Charger",
+    "brand": "Voltix",
+    "category": "phone-accessories",
+    "price": 2399,
+    "tags": [
+      "charger",
+      "fast charging",
+      "usb-c"
+    ],
+    "specs": {
+      "wattage": 25,
+      "connector": "USB-C",
+      "compatible_with": [
+        "Zentra Z5",
+        "Zentra Z5 Pro",
+        "Zentra Max 12",
+        "Nova X1"
+      ]
+    },
+    "description": "Fast wall charger with a USB-C cable.",
+    "product_id": "P-9143",
+    "stock": 36,
+    "rating": 3.7,
+    "warranty_months": 6,
+    "final_sale": false
+  },
+  {
+    "name": "Nimbus Work 15",
+    "brand": "Nimbus",
+    "category": "laptops",
+    "price": 108199,
+    "tags": [
+      "laptop",
+      "office"
+    ],
+    "specs": {
+      "ram_gb": 8,
+      "storage_gb": 512,
+      "screen_in": 15.6,
+      "weight_kg": 1.8,
+      "cpu": "Core i5",
+      "usb_c_charging": false
+    },
+    "description": "Everyday work laptop with a full-size keyboard.",
+    "warranty_months": 12,
+    "product_id": "P-9203",
+    "stock": 6,
+    "rating": 3.6,
+    "final_sale": false
+  },
+  {
+    "name": "Zentra Lite A2",
+    "brand": "Zentra",
+    "category": "smartphones",
+    "price": 26799,
+    "tags": [
+      "phone",
+      "android",
+      "budget"
+    ],
+    "specs": {
+      "ram_gb": 4,
+      "storage_gb": 64,
+      "battery_mah": 5000,
+      "screen_in": 6.5,
+      "connector": "micro-USB"
+    },
+    "description": "Budget phone with a micro-USB port.",
+    "warranty_months": 12,
+    "product_id": "P-9542",
+    "stock": 48,
+    "rating": 3.8,
+    "final_sale": false
+  },
+  {
+    "name": "Auralite Studio 700 ANC",
+    "brand": "Auralite",
+    "category": "headphones",
+    "price": 15599,
+    "tags": [
+      "wireless",
+      "bluetooth",
+      "noise cancelling",
+      "anc",
+      "over-ear"
+    ],
+    "specs": {
+      "battery_hours": 40,
+      "noise_cancelling": true,
+      "microphone": true
+    },
+    "description": "Premium over-ear noise cancelling headphones.",
+    "product_id": "P-9598",
+    "stock": 0,
+    "rating": 4.4,
+    "warranty_months": 6,
+    "final_sale": false
+  },
+  {
+    "name": "Auralite Buds Pro ANC",
+    "brand": "Auralite",
+    "category": "earbuds",
+    "price": 9299,
+    "tags": [
+      "wireless",
+      "bluetooth",
+      "noise cancelling",
+      "anc"
+    ],
+    "specs": {
+      "battery_hours": 30,
+      "noise_cancelling": true,
+      "water_resistance": "IPX5"
+    },
+    "description": "Active noise cancelling earbuds with a wireless charging case.",
+    "final_sale": true,
+    "final_sale_reason": "hygiene: in-ear products",
+    "product_id": "P-9656",
+    "stock": 33,
+    "rating": 4.0,
+    "warranty_months": 6
+  },
+  {
+    "name": "Clickr Cooling Pad 15.6",
+    "brand": "Clickr",
+    "category": "laptop-accessories",
+    "price": 2899,
+    "tags": [
+      "cooling pad",
+      "laptop stand"
+    ],
+    "specs": {
+      "fits_screen_in": 15.6
+    },
+    "description": "Cooling pad with two quiet fans.",
+    "product_id": "P-9891",
+    "stock": 42,
+    "rating": 3.9,
+    "warranty_months": 6,
+    "final_sale": false
+  },
+  {
+    "name": "Sonik Party 50",
+    "brand": "Sonik",
+    "category": "speakers",
+    "price": 19099,
+    "tags": [
+      "speaker",
+      "bluetooth",
+      "party",
+      "lights"
+    ],
+    "specs": {
+      "watts": 50,
+      "battery_hours": 12,
+      "water_resistance": "none"
+    },
+    "description": "Loud party speaker with lights.",
+    "final_sale": true,
+    "final_sale_reason": "clearance item",
+    "product_id": "P-9923",
+    "stock": 36,
+    "rating": 4.4,
+    "warranty_months": 6
+  }
+]
