@@ -4,7 +4,7 @@ Build a customer support agent for our store. Customers write in English or Roma
 
 ## Agentic AI Track Resources
 
-- **Video Tutorial:** [Watch on YouTube](YOUR_YOUTUBE_LINK)
+- **Video Tutorial:** [Watch on YouTube](https://www.youtube.com/watch?v=KXcWqLZoxyw)
 - **Registration & Details:** [SuperComp Website](https://supercomp.bucis.org/tracks/agentic-ai)
 - **Rule Book:** [Download PDF](https://supercomp.bucis.org/downloads/rulebook-agentic-ai.pdf)
 
