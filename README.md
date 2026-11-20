@@ -2,6 +2,12 @@
 
 Build a customer support agent for our store. Customers write in English or Roman Urdu. The game scores your replies and checks what changed in the store. Only `agent/` is judged.
 
+## Agentic AI Track Resources
+
+- **Video Tutorial:** [Watch on YouTube](YOUR_YOUTUBE_LINK)
+- **Registration & Details:** [SuperComp Website](https://supercomp.bucis.org/tracks/agentic-ai)
+- **Rule Book:** [Download PDF](https://supercomp.bucis.org/downloads/rulebook-agentic-ai.pdf)
+
 ## Setup
 
 Use Python 3.11 or newer. If you need to install it, download it from [python.org](https://www.python.org/downloads/). 
@@ -18,11 +24,11 @@ source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
-**Windows PowerShell**
+**Windows Command Prompt**
 
-```powershell
+```bat
 python -m venv .venv
-.venv\Scripts\Activate.ps1
+.venv\Scripts\activate.bat
 pip install -r requirements.txt
 ```
 
@@ -97,3 +103,4 @@ The final score is the percentage of available points earned after penalties, wi
 | `python run_local.py --category returns --trace` | Run a category. |
 | `python run_local.py --trace` | Run all practice cases and trace failures. |
 | `python run_local.py --show-log last` | Reprint the last run. |
+
